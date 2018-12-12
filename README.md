@@ -12,6 +12,10 @@ The end goal is to answer the question - is pro cycling expanding across the glo
 
 The UCI breaks out countries into Continental circuits, which is the purpose of the dictionary at the start. The UCI doesn't include this information in their own publicly available data, so I've gone ahead and assigned them to continents for you. NB I've only used the countries in the 2006-2019 dataset, so if old data has countries that have not held races in this time period that dictionary will need to be appended.
 
+And just because the UCI balls up everything, I've had to re-do the downloads and have put the "season" in each file name. I'll update the script to grab the year and put it in the dataframe. The Continental circuits of Africa, Asia and Oceania and probably the Americas do not follow a calendar year due to their hemisphere, and start in arbitrary times in the fall.
+
+If you don't care, just use start date as the year! Just ignore the xlsx files of the format (Calendar_ROA_12_10_2018 (x).xlsx)
+
 I've also done all the hard work of matching the UCI's way of spelling countries with Google's csv of latitude and longitude for each country (https://developers.google.com/public-data/docs/canonical/countries_csv) omg there has to be an easier way...
 
 The script here removes columns that have no meaning. We can probably come up with a weighting formula for each row that looks at the length of the race and its Class, or to simply determine the number of days (start/end date) of racing per country etc.
