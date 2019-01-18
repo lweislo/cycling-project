@@ -1,0 +1,1 @@
+Selection.Replace What:="Kristijan* Urasek*", Replacement:="Kristijan Urasek (Cro) UAE Team Emirates", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=True

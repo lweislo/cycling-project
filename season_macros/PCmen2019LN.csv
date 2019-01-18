@@ -1,0 +1,1 @@
+Selection.Replace What:="Wirtgen* Tom*", Replacement:="Tom Wirtgen (Lux) Wallonie Bruxelles", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=True

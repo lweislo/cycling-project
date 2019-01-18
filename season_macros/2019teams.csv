@@ -1,84 +1,1 @@
-code,team
-AST,Astana Pro Team
-BOH,Bora-Hansgrohe
-CPT,CCC Team
-DQT,Deceuninck-QuickStep
-EF1,EF Education First
-GFC,Groupama-FDJ
-LTS,Lotto Soudal
-MOV,Movistar Team
-MTS,Mitchelton-Scott
-SKY,Team Sky
-SUN,Team Sunweb
-TBM,Bahrain-Merida
-TDD,Dimension Data
-TFS,Trek-Segafredo
-TJV,Team Jumbo-Visma
-TKA,Katusha-Alpecin
-UAD,UAE Team Emirates
-ANS,Androni Giocattoli-Sidermec
-BBH,Burgos-Bh
-BRD,Bardiani CSF
-CJR,Caja Rural-Seguros RGA
-COC,Corendon-Circus
-COF,Cofidis Solutions Credits
-DMP,Delko Marseille Provence
-EUS,Euskadi Basque Country-Murias
-GAZ,Gazprom-Rusvelo
-HBA,Hagens Berman Axeon
-ICA,Israel Cycling Academy
-MZN,Manzana Postobon Team
-NIP,Nippo-Vini Fantini-Faizane
-PCB,Team Arkea-Samsic
-RIW,Riwal Readynez Cycling Team
-RLY,Rally UHC Cycling
-ROC,Roompot-Charles
-SVB,Sport Vlaanderen-Baloise
-TDE,Direct Energie
-THR,Tharcor
-TNN,Team Novo Nordisk
-VCB,Vital Concept-B&B Hotels
-W52,W52/FC Porto
-WGG,Wanty-Gobert Cycling Team
-WVA,Wallonie Bruxelles
-ALE,Ale Cipollini
-ASA,Astana Women's Team
-BDU,Bizkaia-Durango
-BIG,Bigla Pro Cycling Team
-BPC,Biehler Pro Cycling
-BPK,BePink
-BTC,Btc City Ljubljana
-CCW,CCC-Liv
-CGS,Cogeas Mettler Look
-CMW,Charente-Maritime Women
-CSR,Canyon-SRAM
-CZF,Conceria Zabri-Fanini
-DLT,Boels Dolmans Cyclingteam
-DRP,Drops
-DVE,Doltcini-Van Eyck Sport
-EIC,Eneicue Cycling Team
-FDJ,FDJ Nouvelle-Aquitaine Futuroscope
-GPC,China Liv Pro Cycling
-HBS,Hagens Berman-Supermint
-HMT,Health Mate-Ladies Team
-HPU,Hitec Products-Birk Sport
-LCW,Lviv Cycling Team
-LSL,Lotto Soudal Ladies
-MCC,Minsk Cycling Club
-MOW,Movistar Team Women
-MTW,Mitchelton-Scott Women
-PHV,Parkhotel Valkenburg
-RLW,Rally UHC Cycling Women
-SBT,Eurotarget-Bianchi-Vittoria
-SER,Servetto-Piumate-Beltrami TSA
-SUW,Team Sunweb Women
-SWA,Swapit Agolico
-SWT,Sopela Women's Team
-T20,Sho-Air Twenty20
-TFW,Trek-Segafredo Women
-TIB,Tibco-Silicon Valley Bank
-TOP,Top Girls Fassa Bortolo
-TVC,Team Virtu Cycling
-VAI,Aromitalia-Basso Bikes-Vaiano
-VAL,Valcar-Cylance Cycling
-WNT,WNT-Rotor Pro Cycling
+code,teamALM,AG2R La MondialeAST,Astana Pro TeamBOH,Bora-HansgroheCPT,CCC TeamDQT,Deceuninck-QuickStepEF1,EF Education FirstGFC,Groupama-FDJLTS,Lotto SoudalMOV,Movistar TeamMTS,Mitchelton-ScottSKY,Team SkySUN,Team SunwebTBM,Bahrain-MeridaTDD,Dimension DataTFS,Trek-SegafredoTJV,Team Jumbo-VismaTKA,Katusha-AlpecinUAD,UAE Team EmiratesANS,Androni Giocattoli-SidermecBBH,Burgos-BhBRD,Bardiani CSFCJR,Caja Rural-Seguros RGACOC,Corendon-CircusCOF,Cofidis Solutions CreditsDMP,Delko Marseille ProvenceEUS,Euskadi Basque Country-MuriasGAZ,Gazprom-RusveloHBA,Hagens Berman AxeonICA,Israel Cycling AcademyMZN,Manzana Postobon TeamNIP,Nippo-Vini Fantini-FaizanePCB,Team Arkea-SamsicRIW,Riwal Readynez Cycling TeamRLY,Rally UHC CyclingROC,Roompot-CharlesSVB,Sport Vlaanderen-BaloiseTDE,Direct EnergieTHR,TharcorTNN,Team Novo NordiskVCB,Vital Concept-B&B HotelsW52,W52/FC PortoWGG,Wanty-Gobert Cycling TeamWVA,Wallonie BruxellesALE,Ale CipolliniASA,Astana Women's TeamBDU,Bizkaia-DurangoBIG,Bigla Pro Cycling TeamBPC,Biehler Pro CyclingBPK,BePinkBTC,Btc City LjubljanaCCW,CCC-LivCGS,Cogeas Mettler LookCMW,Charente-Maritime WomenCSR,Canyon-SRAMCZF,Conceria Zabri-FaniniDLT,Boels Dolmans CyclingteamDRP,DropsDVE,Doltcini-Van Eyck SportEIC,Eneicue Cycling TeamFDJ,FDJ Nouvelle-Aquitaine FuturoscopeGPC,China Liv Pro CyclingHBS,Hagens Berman-SupermintHMT,Health Mate-Ladies TeamHPU,Hitec Products-Birk SportLCW,Lviv Cycling TeamLSL,Lotto Soudal LadiesMCC,Minsk Cycling ClubMOW,Movistar Team WomenMTW,Mitchelton-Scott WomenPHV,Parkhotel ValkenburgRLW,Rally UHC Cycling WomenSBT,Eurotarget-Bianchi-VittoriaSER,Servetto-Piumate-Beltrami TSASUW,Team Sunweb WomenSWA,Swapit AgolicoSWT,Sopela Women's TeamT20,Sho-Air Twenty20TFW,Trek-Segafredo WomenTIB,Tibco-Silicon Valley BankTOP,Top Girls Fassa BortoloTVC,Team Virtu CyclingVAI,Aromitalia-Basso Bikes-VaianoVAL,Valcar-Cylance CyclingWNT,WNT-Rotor Pro Cycling
