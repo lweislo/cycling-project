@@ -1,0 +1,1175 @@
+Selection.Replace What:="Petr* Fiala*", Replacement:="Petr Fiala (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frantisek* Honsa*", Replacement:="Frantisek Honsa (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom??* Kaloj?ros*", Replacement:="Tomáš Kalojíros (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rostislav* Krotk?*", Replacement:="Rostislav Krotký (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Petr* Mal?n*", Replacement:="Petr Malán (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Rajchart*", Replacement:="Jan Rajchart (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Ryba*", Replacement:="Jan Ryba (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom??* Sch?hler*", Replacement:="Tomáš Schühler (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michal* Schuran*", Replacement:="Michal Schuran (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* St?hr*", Replacement:="Jan Stöhr (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pavel* St?hr*", Replacement:="Pavel Stöhr (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michal* Volf*", Replacement:="Michal Volf (Cze) AC Sparta Praha", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Radoslav* Rogina*", Replacement:="Radoslav Rogina (Cro) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jon* Bo?i?*", Replacement:="Jon Božič (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?iga* Gro?elj*", Replacement:="Žiga Grošelj (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?iga* Horvat*", Replacement:="Žiga Horvat (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alja?* Jarc*", Replacement:="Aljaž Jarc (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gaper* Katra?nik*", Replacement:="Gaper Katrašnik (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marko* Kump*", Replacement:="Marko Kump (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alja?* Omrzel*", Replacement:="Aljaž Omrzel (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Per*", Replacement:="David Per (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dusan* Rajovic*", Replacement:="Dusan Rajovic (Srb) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gorazd* Per*", Replacement:="Gorazd Per (Slo) Adria Mobil", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tomohiro* Hayakawa*", Replacement:="Tomohiro Hayakawa (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keigo* Kusaba*", Replacement:="Keigo Kusaba (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Damien* Monier*", Replacement:="Damien Monier (Fra) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ken* Nakagawa*", Replacement:="Ken Nakagawa (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hayato* Okamoto*", Replacement:="Hayato Okamoto (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kakeru* Omae*", Replacement:="Kakeru Omae (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kota* Sumiyoshi*", Replacement:="Kota Sumiyoshi (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shotaro* Watanabe*", Replacement:="Shotaro Watanabe (Jpn) Aisan Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antoine* Aebi*", Replacement:="Antoine Aebi (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laurin* Bachmann*", Replacement:="Laurin Bachmann (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* D?ring*", Replacement:="Jonas Döring (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lo?s* Dufaux*", Replacement:="Loïs Dufaux (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Robin* Froidevaux*", Replacement:="Robin Froidevaux (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Timo* G?ller*", Replacement:="Timo Güller (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Claudio* Imhof*", Replacement:="Claudio Imhof (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeremias* Jenelten*", Replacement:="Jeremias Jenelten (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Justin* Paroz*", Replacement:="Justin Paroz (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nico* Selenati*", Replacement:="Nico Selenati (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joel* Suter*", Replacement:="Joel Suter (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Val?re* Thi?baud*", Replacement:="Valère Thiébaud (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yannis* Voisard*", Replacement:="Yannis Voisard (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manuel* Zobrist*", Replacement:="Manuel Zobrist (Swi) Akros-Thömus", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristers* Ansons*", Replacement:="Kristers Ansons (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marco* Bernardinetti*", Replacement:="Marco Bernardinetti (Ita) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Danilo* Celano*", Replacement:="Danilo Celano (Ita) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pierpaolo* Ficara*", Replacement:="Pierpaolo Ficara (Ita) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan?Andr?* Freuler*", Replacement:="Jan-André Freuler (Swi) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eriks* Gavars*", Replacement:="Eriks Toms Gavars (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Deins* Kanepejs*", Replacement:="Deins Kanepejs (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Viesturs* Luksevics*", Replacement:="Viesturs Luksevics (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andrea* Meucci*", Replacement:="Andrea Meucci (Ita) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maxence* Moncassin*", Replacement:="Maxence Moncassin (Fra) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Iltjan* Nika*", Replacement:="Iltjan Nika (Alb) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristaps* Pelcers*", Replacement:="Kristaps Pelcers (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kaspars* Sergis*", Replacement:="Kaspars Sergis (Lat) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Federico* Vivas*", Replacement:="Federico Nicolas Vivas (Arg) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Zullo*", Replacement:="Antonio Zullo (Ita) Amore & Vita-Prodir", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jos?* Astiasar?n*", Replacement:="José Rodolfo Astiasarán (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Baron*", Replacement:="Juan Carlos Baron (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guillermo* Brunetta*", Replacement:="Guillermo Martin Brunetta (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emiliano* Contreras*", Replacement:="Emiliano Contreras (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dario* Diaz*", Replacement:="Dario Raul Antonio Diaz (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emiliano* Fernandez*", Replacement:="Emiliano Fernandez (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leandro* Messineo*", Replacement:="Leandro Messineo (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Francisco* Monte*", Replacement:="Francisco Cesar Monte (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonardo* Rodriguez*", Replacement:="Leonardo Franco Rodriguez (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laureano* Rosas*", Replacement:="Laureano Rosas (Arg) Asociacion Civil Mardan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Galym* Akhmetov*", Replacement:="Galym Akhmetov (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Olzhas* Bayembayev*", Replacement:="Olzhas Bayembayev (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Igor* Chzhan*", Replacement:="Igor Chzhan (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ramis* Dinmukhametov*", Replacement:="Ramis Dinmukhametov (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maxim* Gridchin*", Replacement:="Maxim Gridchin (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anton* Kuzmin*", Replacement:="Anton Kuzmin (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sergey* Luchshenko*", Replacement:="Sergey Luchshenko (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniil* Marukhin*", Replacement:="Daniil Marukhin (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bolat* Niyazov*", Replacement:="Bolat Niyazov (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nurbergen* Nurlykhassym*", Replacement:="Nurbergen Nurlykhassym (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dinmukhammed* Ulysbayev*", Replacement:="Dinmukhammed Ulysbayev (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ivan* Zaitsev*", Replacement:="Ivan Zaitsev (Kaz) Astana City", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonel* Coutinho*", Replacement:="Leonel Coutinho (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* De La Fuente*", Replacement:="David De La Fuente Rasilla (Spa) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andr?* Evangelista*", Replacement:="André Evangelista (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu?s* Fernandes*", Replacement:="Luís Fernandes (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ricardo* Ferreira*", Replacement:="Ricardo Ferreira (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vicente* Garcia*", Replacement:="Vicente Garcia de Mateos Rubio (Spa) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Francisco* Garcia*", Replacement:="Francisco Garcia Rus (Spa) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Hernandez*", Replacement:="Oscar Hernandez Martinez (Spa) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nuno* Meireles*", Replacement:="Nuno Meireles (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Perez*", Replacement:="Juan Ignacio Perez Martin (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="M?rcio* Santos*", Replacement:="Márcio Fernando Santos Barbosa (Por) Aviludo-Louletano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Abraham Gebru*", Replacement:="Daniel Abraham Gebru (Ned) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martijn* Budding*", Replacement:="Martijn Budding (Ned) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luuc* Bugter*", Replacement:="Luuc Bugter (Ned) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yves* Coolen*", Replacement:="Yves Coolen (Bel) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nahom* Desale*", Replacement:="Nahom Desale (Eri) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Piotr* Havik*", Replacement:="Piotr Havik (Ned) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daan* Hoeyberghs*", Replacement:="Daan Hoeyberghs (Bel) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adam* Lewis*", Replacement:="Adam Lewis (GBr) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alex* Mengoulas*", Replacement:="Alex Mengoulas (Ned) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guillaume* Seye*", Replacement:="Guillaume Seye (Bel) Beat Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filippo* Baroncini*", Replacement:="Filippo Baroncini (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sebastian* Casta?o*", Replacement:="Sebastian Alexander Castaño Muñoz (Col) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteo* Domenicali*", Replacement:="Matteo Domenicali (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ottavio* Dotti*", Replacement:="Ottavio Dotti (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Davide* Ferrari*", Replacement:="Davide Ferrari (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tommaso* Fiaschi*", Replacement:="Tommaso Fiaschi (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteo* Furlan*", Replacement:="Matteo Furlan (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Javier* Montoya*", Replacement:="Javier Ignacio Montoya Montoya (Col) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicolo'* Parisini*", Replacement:="Nicolo' Parisini (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wilson* Pena*", Replacement:="Wilson Estiben Pena Molano (Col) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Pesenti*", Replacement:="Thomas Pesenti (Ita) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mat?s* Stocek*", Replacement:="Matús Stocek (Svk) Beltramitsa Hoppla' Petroli Firenze", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicklas* Amdi Pedersen*", Replacement:="Nicklas Overgaard Amdi Pedersen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sander* Andersen*", Replacement:="Sander Andersen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesper* Andreasen*", Replacement:="Jesper Andreasen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mathias* Bregnh?j*", Replacement:="Mathias Bregnhøj (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mathias* Bundsgaard Matz*", Replacement:="Mathias Bundsgaard Matz (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeppe* Hanssing*", Replacement:="Jeppe Hanssing (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Kaspersen*", Replacement:="Thomas Rald Kaspersen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Magnus* Klaris*", Replacement:="Magnus Bak Klaris (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeppe* Klein Jensen*", Replacement:="Jeppe Klein Jensen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christoffer* Lisson*", Replacement:="Christoffer Lisson (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Madsen*", Replacement:="Martin Toft Madsen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eigil* Nikolajsen*", Replacement:="Eigil Nikolajsen (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mads* Rahbek*", Replacement:="Mads Baadgaard Rahbek (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emil* Toudal*", Replacement:="Emil Toudal (Den) BHS-Almeborg Bornholm", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alberto* Amici*", Replacement:="Alberto Amici (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteo* Bellia*", Replacement:="Matteo Bellia (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andrea* Berzi*", Replacement:="Andrea Berzi (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tommaso* Bramati*", Replacement:="Tommaso Bramati (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kevin* Colleoni*", Replacement:="Kevin Colleoni (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raul* Colombo*", Replacement:="Raul Colombo (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filippo* Conca*", Replacement:="Filippo Conca (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lorenzo* Delc?*", Replacement:="Lorenzo Delcó (Swi) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gabriele* Moreni*", Replacement:="Gabriele Moreni (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Giovanni* Pedretti*", Replacement:="Giovanni Pedretti (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michel* Piccot*", Replacement:="Michel Piccot (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefano* Taglietti*", Replacement:="Stefano Taglietti (Ita) Biesse Carrera", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pablo* Alarcon*", Replacement:="Pablo Andrés Alarcon Cares (Chi) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eduardo* Corte*", Replacement:="Eduardo Corte Cordero (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Francisco* Lara*", Replacement:="Francisco Lara Carbajal (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonel* Palma*", Replacement:="Leonel Palma Dajui (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ignacio* Prado*", Replacement:="Ignacio Prado Juarez (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Sanchez*", Replacement:="Oscar Eduardo Sanchez Guarin (Col) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Efren* Santos*", Replacement:="Efren Santos Moreno (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roman* Villalobos*", Replacement:="Roman Daniel Villalobos Solis (CRc) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Xopa*", Replacement:="Jose Esteban Xopa Maria (Mex) Canel's-Specialized", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stanislaw* Aniolkowski*", Replacement:="Stanislaw Aniolkowski (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Piotr* Brozyna*", Replacement:="Piotr Brozyna (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kamil* Malecki*", Replacement:="Kamil Malecki (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michal* Paluta*", Replacement:="Michal Paluta (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Damian* Papierski*", Replacement:="Damian Papierski (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Piotr* Pekala*", Replacement:="Piotr Pekala (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patryk* Stosz*", Replacement:="Patryk Stosz (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Szymon* Tracz*", Replacement:="Szymon Tracz (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kacper* Walkowiak*", Replacement:="Kacper Walkowiak (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karol* Wawrzyniak*", Replacement:="Karol Wawrzyniak (Pol) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Attila* Valter*", Replacement:="Attila Valter (Hun) CCC Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dieter* Bouvry*", Replacement:="Dieter Bouvry (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dennis* Coenen*", Replacement:="Dennis Coenen (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Cools*", Replacement:="Alexander Cools (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Glenn* Debruyne*", Replacement:="Glenn Debruyne (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michiel* Dieleman*", Replacement:="Michiel Dieleman (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeroen* Eyskens*", Replacement:="Jeroen Eyskens (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gianni* Marchand*", Replacement:="Gianni Marchand (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cedric* Raymackers*", Replacement:="Cedric Raymackers (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jacob* Relaes*", Replacement:="Jacob Relaes (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Reynaerts*", Replacement:="Jan Reynaerts (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wim* Reynaerts*", Replacement:="Wim Reynaerts (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Timothy* Stevens*", Replacement:="Timothy Stevens (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lennert* Teugels*", Replacement:="Lennert Teugels (Bel) Cibel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aristobulo* Cala*", Replacement:="Aristobulo Cala Cala (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johnatan* Ca?averal*", Replacement:="Johnatan Cañaveral Vargas (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diego* Cano*", Replacement:="Diego Fernando Cano Malaver (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eduardo* Estrada*", Replacement:="Eduardo Estrada Celis (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Javier* Gonzalez*", Replacement:="Javier Steven Gonzalez Giron (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brayan* Hernandez*", Replacement:="Brayan Hernandez Gomez (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diego* Jaramillo*", Replacement:="Diego Alejandro Jaramillo Velez (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johan* Moreno*", Replacement:="Johan Moreno Ramirez (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="William* Mu?oz*", Replacement:="William David Muñoz Perez (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Victor* Ocampo*", Replacement:="Victor Alejandro Ocampo Giraldo (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frank* Osorio*", Replacement:="Frank Yair Osorio Carvajal (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andres* Pedroza*", Replacement:="Andres Camilo Pedroza Caceres (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesus* Pe?a*", Replacement:="Jesus David Peña Jimenez (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeferson* Perez*", Replacement:="Jeferson Eduardo Perez Vargas (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Quiroz*", Replacement:="Oscar Adalberto Quiroz Ayala (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wldy* Sandoval*", Replacement:="Wldy Enrique Sandoval Garzon (Col) Coldeportes Bicicletas Strongman", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Alba*", Replacement:="Juan Diego Alba Bolivar (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adrian* Bustamante*", Replacement:="Adrian Camilo Bustamante Ruda (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julio* Camacho*", Replacement:="Julio Alexis Camacho Bernal (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diego* Camargo*", Replacement:="Diego Andres Camargo Pineda (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alex* Cano*", Replacement:="Alex Norberto Cano Ardila (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="German* Chaves*", Replacement:="German Enrique Chaves Torres (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Miguel Angel* Chavez*", Replacement:="Miguel Angel Chavez Rubiano (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johan* Colon*", Replacement:="Johan Antonio Colon Buelvas (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Galvis*", Replacement:="Oscar Dubian Galvis Atehortua (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Berardo* Hernandez*", Replacement:="Berardo Alexis Hernandez Acevedo (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Jaramillo*", Replacement:="Juan Guillermo Jaramillo Muñoz (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Mesa*", Replacement:="Juan Martin Mesa Perez (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julian* Molano*", Replacement:="Julian David Molano Benavides (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brayan* Ramirez*", Replacement:="Brayan Stiven Ramirez Chacon (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Rendon*", Replacement:="Juan Tito Rendon Franco (Col) Coldeportes Zenu", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteo* Belogi*", Replacement:="Matteo Belogi (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Federico* Burchio*", Replacement:="Federico Burchio (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Carenza*", Replacement:="Antonio Carenza (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ivan* Martinelli*", Replacement:="Ivan Martinelli (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marcello* Merlino*", Replacement:="Marcello Merlino (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Franco* Orocito*", Replacement:="Franco Orocito (Arg) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Orlando* Pitzanti*", Replacement:="Orlando Pitzanti (Ita) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yamil* Tapia*", Replacement:="Yamil Gabriel Tapia (Arg) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Freek* van Rossem*", Replacement:="Freek van Rossem (Ned) D'Amico Um Tools", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jake* Cullen*", Replacement:="Jake Cullen (Can) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gregory* Daniel*", Replacement:="Gregory Daniel (USA) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joshua* Kropf*", Replacement:="Joshua Kropf (Can) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antoine* Leplingard*", Replacement:="Antoine Leplingard (Fra) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emiliano* Mirafuentes*", Replacement:="Emiliano Mirafuentes Resendez (Mex) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eugenio* Mirafuentes*", Replacement:="Eugenio Mirafuentes Resendez (Mex) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Travis* Samuel*", Replacement:="Travis Samuel (Can) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Schellenberg*", Replacement:="Thomas Schellenberg (Can) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jean?Denis* Thibault*", Replacement:="Jean-Denis Thibault (Can) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jure* Rupnik*", Replacement:="Jure Rupnik (Slo) DC Bank Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nils* Eekhoff*", Replacement:="Nils Eekhoff (Ned) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Gall*", Replacement:="Felix Gall (Aut) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leon* Heinschke*", Replacement:="Leon Heinschke (Ger) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ben* Katerberg*", Replacement:="Ben Katerberg (Can) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Edo* Maas*", Replacement:="Edo Maas (Ned) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Niklas* M?rkl*", Replacement:="Niklas Märkl (Ger) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marius* Mayrhofer*", Replacement:="Marius Mayrhofer (Ger) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jarno* Mobach*", Replacement:="Jarno Mobach (Ned) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tim* Naberman*", Replacement:="Tim Naberman (Ned) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Salmon*", Replacement:="Martin Alexander Salmon (Ger) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nils* Sinschek*", Replacement:="Nils Sinschek (Ned) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Florian* Stork*", Replacement:="Florian Stork (Ger) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Xandres* Vervloesem*", Replacement:="Xandres Vervloesem (Bel) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ludvig* Wacker*", Replacement:="Ludvig Anton Wacker (Den) Development Team Sunweb", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuele* Battistella*", Replacement:="Samuele Battistella (Ita) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Connor* Brown*", Replacement:="Connor Brown (NZl) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="El* Chokri*", Replacement:="El Mehdi Chokri (Mar) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Million* Ejgu*", Replacement:="Million Beza Ejgu (Eth) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Konychev*", Replacement:="Alexander Konychev (Ita) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luca* Mozzato*", Replacement:="Luca Mozzato (Ita) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Mugisha*", Replacement:="Samuel Mugisha (Rwa) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hailemichael* Mulu*", Replacement:="Hailemichael Mulu (Eth) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Natnael* Ocbit*", Replacement:="Natnael Ocbit (Eri) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteo* Sobrero*", Replacement:="Matteo Sobrero (Ita) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Lavri?*", Replacement:="Martin Lavrič (Slo) Dimension Data For Qhubeka", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Bolton*", Replacement:="Thomas Bolton (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrick* Burt*", Replacement:="Patrick Burt (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zachary* Johnson*", Replacement:="Zachary Johnson (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom* Kaesler*", Replacement:="Tom Kaesler (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liam* Magennis*", Replacement:="Liam Magennis (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oliver* Martin*", Replacement:="Oliver Martin (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jensen* Plowright*", Replacement:="Jensen Plowright (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Thomas*", Replacement:="Ryan Thomas (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liam* White*", Replacement:="Liam White (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Theodore* Yates*", Replacement:="Theodore Yates (Aus) Drapac Cannondale Holistic Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juraj* Bellan*", Replacement:="Juraj Bellan (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marek* Canecky*", Replacement:="Marek Canecky (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Chren*", Replacement:="Martin Chren (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Cully*", Replacement:="Jan Andrej Cully (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Haring*", Replacement:="Martin Haring (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luk?s* Kubis*", Replacement:="Lukás Kubis (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Mahdar*", Replacement:="Martin Mahdar (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Oros*", Replacement:="Samuel Oros (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrik* Tybor*", Replacement:="Patrik Tybor (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jakub* Varhanovsky*", Replacement:="Jakub Varhanovsky (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Vlc?k*", Replacement:="Martin Vlcák (Svk) Dukla Banska Bystrica", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Angulo*", Replacement:="Antonio Angulo Sampedro (Spa) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="J?ni* Brand?o*", Replacement:="Jóni Brandão (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Henrique* Casimiro*", Replacement:="Henrique Casimiro (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fabricio* Ferrari*", Replacement:="Fabricio Ferrari Barcelo (Uru) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marcos* Jurado*", Replacement:="Marcos Jurado Rodriguez (Spa) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rafael* Magalh?es*", Replacement:="Rafael Jorge Magalhães Silva (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nikolay* Mihaylov*", Replacement:="Nikolay Mihaylov (Bul) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pedro* Paulinho*", Replacement:="Pedro Paulinho (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="S?rgio* Paulinho*", Replacement:="Sérgio Paulinho (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bruno* Silva*", Replacement:="Bruno Silva (Por) Efapel", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Bassetti*", Replacement:="Samuel Bassetti (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ulises* Castillo*", Replacement:="Ulises Alfredo Castillo Soto (Mex) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jordan* Cheyne*", Replacement:="Jordan Cheyne (Can) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gavin* Hoover*", Replacement:="Gavin Hoover (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brian* Mcculloch*", Replacement:="Brian Mcculloch (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="James* Piccoli*", Replacement:="James Piccoli (Can) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adam* Roberge*", Replacement:="Adam Roberge (Can) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Rodriguez*", Replacement:="Jose Alfredo Rodriguez Victoria (Mex) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="George* Simpson*", Replacement:="George Simpson (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kyle* Swanson*", Replacement:="Kyle Swanson (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eric* Young*", Replacement:="Eric Young (USA) Elevate-KHS Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* B?rta*", Replacement:="Jan Bárta (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karel* Hn?k*", Replacement:="Karel Hník (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alois* Kakovsk?*", Replacement:="Alois Kakovský (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Kukrle*", Replacement:="Michael Kukrle (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dominik* Neuman*", Replacement:="Dominik Neuman (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jakub* Otruba*", Replacement:="Jakub Otruba (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michal* Schlegel*", Replacement:="Michal Schlegel (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frantisek* Sisr*", Replacement:="Frantisek Sisr (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matej* Stibingr*", Replacement:="Matej Stibingr (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matej* Zah?lka*", Replacement:="Matej Zahálka (Cze) Elkov-Author", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Janier* Acevedo*", Replacement:="Janier Alexis Acevedo Calle (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jairo* Cano*", Replacement:="Jairo Alonso Cano Salas (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Edwin* Carvajal*", Replacement:="Edwin Andres Carvajal Jaramillo (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jaime* Casta?eda*", Replacement:="Jaime Alberto Castañeda Ortega (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Angel* Gil*", Replacement:="Angel Alexander Gil Sanchez (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luis* Jimenez*", Replacement:="Luis Fernando Jimenez Martinez (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fredy* Monta?a*", Replacement:="Fredy Emir Montaña Cadena (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Carlos* Ramirez*", Replacement:="Carlos Mario Ramirez Botero (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Miguel Angel* Reyes*", Replacement:="Miguel Angel Reyes Vergara (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="John* Rodriguez*", Replacement:="John Anderson Rodriguez Salazar (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Sarmiento*", Replacement:="Jose Cayetano Sarmiento Tunarrosa (Col) EPM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eugenio* Alafaci*", Replacement:="Eugenio Alafaci (Ita) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shane* Archbold*", Replacement:="Shane Archbold (NZl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mark* Downey*", Replacement:="Mark Downey (Irl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daire* Feeley*", Replacement:="Daire Feeley (Irl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aaron* Gate*", Replacement:="Aaron Gate (NZl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aaron* Kearney*", Replacement:="Aaron Kearney (Irl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seid* Lizde*", Replacement:="Seid Lizde (Ita) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cormac* Mcgeough*", Replacement:="Cormac Mcgeough (Irl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dominic* Mestre*", Replacement:="Dominic Mestre (Por) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cyrus* Monk*", Replacement:="Cyrus Monk (Aus) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luke* Mudgway*", Replacement:="Luke Mudgway (NZl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Albert* Muela*", Replacement:="Albert Muela Galvez (Spa) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Harrison* Sweeny*", Replacement:="Harrison Sweeny (Aus) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matthew* Teggart*", Replacement:="Matthew Teggart (Irl) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Whitehouse*", Replacement:="Daniel Whitehouse (GBr) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wouter* Wippert*", Replacement:="Wouter Wippert (Ned) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eugert* Zhupa*", Replacement:="Eugert Zhupa (Alb) Evopro Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yauheni* Akhramenka*", Replacement:="Yauheni Akhramenka (Blr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Narankhuu* Bat?Erdene*", Replacement:="Narankhuu Bat-Erdene (Mgl) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Iderbold* Bold*", Replacement:="Iderbold Bold (Mgl) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bilguunjargal* Erdenebat*", Replacement:="Bilguunjargal Erdenebat (Mgl) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kanstantsin* Klimiankou*", Replacement:="Kanstantsin Klimiankou (Blr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anton* Muzychkin*", Replacement:="Anton Muzychkin (Blr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sergii* Movchan*", Replacement:="Sergii Movchan (Ukr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vladyslav* Pohorelov*", Replacement:="Vladyslav Pohorelov (Ukr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Artem* Topchanyuk*", Replacement:="Artem Topchanyuk (Ukr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rostyslav* Zhukovskyi*", Replacement:="Rostyslav Zhukovskyi (Ukr) Ferei Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Behnam* Ariyan*", Replacement:="Behnam Ariyan (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mehdi* Armoon*", Replacement:="Mehdi Armoon (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mehdi* Bidram*", Replacement:="Mehdi Bidram Gorgabi (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sajjad* Hashemi*", Replacement:="Sajjad Hashemi (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hamed* Jannat*", Replacement:="Hamed Jannat (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hossein* Nateghi*", Replacement:="Hossein Nateghi (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mohsen* Rahmanibeiragh*", Replacement:="Mohsen Rahmanibeiragh (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Masoud* Sheikhi*", Replacement:="Masoud Sheikhi (IRI) Foolad Mobarakeh Sepahan", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yongho* Cho*", Replacement:="Yongho Cho (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jaemin* Ha*", Replacement:="Jaemin Ha (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seokhyun* Ham*", Replacement:="Seokhyun Ham (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jiung* Jang*", Replacement:="Jiung Jang (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eunseong* Jung*", Replacement:="Eunseong Jung (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kangsan* Keum*", Replacement:="Kangsan Keum (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Taehee* Oh*", Replacement:="Taehee Oh (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yeonwoo* Yoo*", Replacement:="Yeonwoo Yoo (Kor) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hyeongmin* Choe*", Replacement:="Hyeongmin Choe (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Donghyuk* Choi*", Replacement:="Donghyuk Choi (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Junghwan* Choi*", Replacement:="Junghwan Choi (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jaeha* Lee*", Replacement:="Jaeha Lee (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seungkwon* Lee*", Replacement:="Seungkwon Lee (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Junseo* Moonshin*", Replacement:="Junseo Moonshin (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kyeongmin* Park*", Replacement:="Kyeongmin Park (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Minchul* Park*", Replacement:="Minchul Park (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeyong* Son*", Replacement:="Jeyong Son (Kor) Geumsan Insam Cello", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zhiwen* Chen*", Replacement:="Zhiwen Chen (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Penghai* Deng*", Replacement:="Penghai Deng (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bingcheng* Gu*", Replacement:="Bingcheng Gu (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liang* Guo*", Replacement:="Liang Guo (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jinsong* Li*", Replacement:="Jinsong Li (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Haiwang* Liu*", Replacement:="Haiwang Liu (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manduo* Liu*", Replacement:="Manduo Liu (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hang* Shi*", Replacement:="Hang Shi (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zhaoliang* Xu*", Replacement:="Zhaoliang Xu (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zilin* Yuan*", Replacement:="Zilin Yuan (Chn) Giant Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marino* Kobayashi*", Replacement:="Marino Kobayashi (Jpn) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emanuele* Onesti*", Replacement:="Emanuele Onesti (Ita) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Riccardo* Stacchiotti*", Replacement:="Riccardo Stacchiotti (Ita) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simone* Sterbini*", Replacement:="Simone Sterbini (Ita) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Federico* Zurlo*", Replacement:="Federico Zurlo (Ita) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Crista*", Replacement:="Daniel Crista (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emil* Dima*", Replacement:="Emil Dima (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vlad?Nicolae* Dobre*", Replacement:="Vlad-Nicolae Dobre (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ciprian* Jitaru*", Replacement:="Ciprian Jitaru (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vlad* Pacurar*", Replacement:="Vlad Pacurar (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Denis* Vulcan*", Replacement:="Denis Marian Vulcan (Rom) Giotti Victoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexys* Brunel*", Replacement:="Alexys Brunel (Fra) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Clement* Davy*", Replacement:="Clement Davy (Fra) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="K?vin* Geniets*", Replacement:="Kévin Geniets (Lux) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simon* Guglielmi*", Replacement:="Simon Guglielmi (Fra) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kevin* Inkelaar*", Replacement:="Kevin Inkelaar (Ned) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Morgan* Kneisky*", Replacement:="Morgan Kneisky (Fra) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karl* Lauk*", Replacement:="Karl Patrick Lauk (Est) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuele* Manfredi*", Replacement:="Samuele Manfredi (Ita) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Th?o* Nonnez*", Replacement:="Théo Nonnez (Fra) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cristian* Scaroni*", Replacement:="Cristian Scaroni (Ita) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jake* Stewart*", Replacement:="Jake Stewart (GBr) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?iga* Jerman*", Replacement:="Žiga Jerman (Slo) Groupama-FDJ Continental", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Serguio* Aliu*", Replacement:="Serguio Aliu Djalo (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quedutar* Cul*", Replacement:="Quedutar Cul Iala (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cristian* Gomis*", Replacement:="Cristian Marc Gomis Lopez Tavarez (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Gonzalez*", Replacement:="Samuel Gonzalez Carrera (Spa) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manuel* Jose*", Replacement:="Manuel Jose Nafiai (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fernando* Lopes*", Replacement:="Fernando Lopes Gonzalez (Spa) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shunhana* M´Bali*", Replacement:="Shunhana M´Bali Balu (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Miltiadis*", Replacement:="Andreas Miltiadis (Cyp) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mussa* Ninto*", Replacement:="Mussa Ninto Tchata (GBs) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Nu?ez*", Replacement:="Jose Carlos Nuñez Sanchez (Spa) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Rodriguez*", Replacement:="Daniel Rodriguez Davila (Spa) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesus* Rubio*", Replacement:="Jesus Alberto Rubio Arribas (Spa) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paulo* Silva*", Replacement:="Paulo Silva (Por) Guerciotti-Kiwi Atlantico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Carlos* Alzate*", Replacement:="Carlos Eduardo Alzate Escobar (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wilson* Cardona*", Replacement:="Wilson Steeven Cardona Garcia (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Castro*", Replacement:="Jose Nicolas Castro Laverde (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luis* Laverde*", Replacement:="Luis Felipe Laverde Jimenez (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Heiner* Parra*", Replacement:="Heiner Rodrigo Parra Bustamante (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Walter* Pedraza*", Replacement:="Walter Fernando Pedraza Morales (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yeison* Reyes*", Replacement:="Yeison Sebastian Reyes Ortega (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brandon* Rivera*", Replacement:="Brandon Smith Rivera Vargas (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Serpa*", Replacement:="Jose Rodolfo Serpa Perez (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Suarez*", Replacement:="Juan Pablo Suarez Suarez (Col) GW Shimano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pirmin* Benz*", Replacement:="Pirmin Benz (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maximilian* Beyer*", Replacement:="Maximilian Beyer (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Calvin* Dik*", Replacement:="Calvin Dik (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jasper* Frahm*", Replacement:="Jasper Frahm (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jakob* Ge?ner*", Replacement:="Jakob Geßner (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Gro?*", Replacement:="Felix Groß (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrick* Haller*", Replacement:="Patrick Haller (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juri* Hollmann*", Replacement:="Juri Hollmann (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jannis* Peter*", Replacement:="Jannis Peter (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Theo* Reinhardt*", Replacement:="Theo Reinhardt (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leon* Rohde*", Replacement:="Leon Rohde (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nils* Schomber*", Replacement:="Nils Schomber (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pascal* Treubel*", Replacement:="Pascal Treubel (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Tschernoster*", Replacement:="Jan Tschernoster (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Domenic* Weinstein*", Replacement:="Domenic Weinstein (Ger) Heizomat Rad-Net.de", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mingrun* Chen*", Replacement:="Mingrun Chen (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tengda* Gui*", Replacement:="Tengda Gui (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jiajun* Han*", Replacement:="Jiajun Han (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="He* Jiang*", Replacement:="He Jiang (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zhikai* Li*", Replacement:="Zhikai Li (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jianpeng* Liu*", Replacement:="Jianpeng Liu (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Xianjing* Lyu*", Replacement:="Xianjing Lyu (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guangtong* Ma*", Replacement:="Guangtong Ma (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chengshuo* Miao*", Replacement:="Chengshuo Miao (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Geng* Teng*", Replacement:="Geng Teng (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andris* Vosekalns*", Replacement:="Andris Vosekalns (Lat) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bo* Wang*", Replacement:="Bo Wang (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Junyong* Wang*", Replacement:="Junyong Wang (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Meng* Yan*", Replacement:="Meng Yan (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zheng* Zhang*", Replacement:="Zheng Zhang (Chn) Hengxiang Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johannes* Adamietz*", Replacement:="Johannes Adamietz (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Victor* Br?ck*", Replacement:="Victor Brück (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leon* Echtermann*", Replacement:="Leon Echtermann (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christopher* Hatz*", Replacement:="Christopher Hatz (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Miguel* Heidemann*", Replacement:="Miguel Heidemann (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lennart* Jung*", Replacement:="Lennart Jung (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Florenz* Knauer*", Replacement:="Florenz Knauer (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Florian* Obersteiner*", Replacement:="Florian Obersteiner (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manuel* Porzner*", Replacement:="Manuel Porzner (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Tarlton*", Replacement:="Alexander Tarlton (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nils* Weispfennig*", Replacement:="Nils Weispfennig (Ger) Herrmann Radteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Bokeloh*", Replacement:="Jonas Bokeloh (Ger) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrick* Bosman*", Replacement:="Patrick Bosman (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Eichinger*", Replacement:="Daniel Eichinger (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Markus* Freiberger*", Replacement:="Markus Freiberger (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Graf*", Replacement:="Andreas Graf (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Hofer*", Replacement:="Andreas Hofer (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dominik* Hrinkow*", Replacement:="Dominik Hrinkow (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Timon* Loderer*", Replacement:="Timon Loderer (Ger) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Rapp*", Replacement:="Jonas Rapp (Ger) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lukas* Reckendorfer*", Replacement:="Lukas Reckendorfer (Aut) Hrinkow Advarics Cycleang", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Giacomo* Ballabio*", Replacement:="Giacomo Ballabio (Ita) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="R?mi* Capron*", Replacement:="Rémi Capron (Fra) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Clapasson*", Replacement:="Thomas Clapasson (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antoine* Debons*", Replacement:="Antoine Debons (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quentin* Guex*", Replacement:="Quentin Guex (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fabian* Lienhard*", Replacement:="Fabian Lienhard (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dylan* Page*", Replacement:="Dylan Page (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simon* Pellaud*", Replacement:="Simon Pellaud (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Scott* Quincey*", Replacement:="Scott Quincey (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anthony* Rappo*", Replacement:="Anthony Rappo (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Sch?ppi*", Replacement:="Martin Schäppi (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joab* Schneiter*", Replacement:="Joab Schneiter (Swi) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuele* Zoccarato*", Replacement:="Samuele Zoccarato (Ita) IAM Excelsior", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Cueto*", Replacement:="Juan Jose Cueto Montero (Dom) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="William* Guzm?n*", Replacement:="William De Jesus Guzmán Rosario (Dom) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Juarez*", Replacement:="Juan Ramon Juarez Garrido (Mex) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diego* Milan*", Replacement:="Diego Milan Jimenez (Dom) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adrian* Nu?ez*", Replacement:="Adrian Santiago Nuñez Hernandez (Dom) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonel* Quintero*", Replacement:="Leonel Quintero (Ven) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elvys* Reyes*", Replacement:="Elvys Reyes (PuR) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rafael* Tejada*", Replacement:="Rafael Agustin Tejada Rosario (Dom) Inteja Imca-Ridea DCT", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hernan* Aguirre*", Replacement:="Hernan Ricardo Aguirre Caipa (Col) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maris* Bogdanovics*", Replacement:="Maris Bogdanovics (Lat) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Casanovas*", Replacement:="David Casanovas Alegri (Spa) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Charles?Etienne* Chretien*", Replacement:="Charles-Etienne Chretien (Can) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Evan* Clouse*", Replacement:="Evan Clouse (USA) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adrien* Guillonnet*", Replacement:="Adrien Guillonnet (Fra) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Florian* Hudry*", Replacement:="Florian Hudry (Fra) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yuki* Ishihara*", Replacement:="Yuki Ishihara (Jpn) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simon* Jones*", Replacement:="Simon Jones (USA) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tomoya* Koyama*", Replacement:="Tomoya Koyama (Jpn) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kyohei* Mizuno*", Replacement:="Kyohei Mizuno (Jpn) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gauthier* Navarro*", Replacement:="Gauthier Navarro (Fra) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Ponce*", Replacement:="Samuel Ponce Alvarez (And) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kouki* Shinoda*", Replacement:="Kouki Shinoda (Jpn) Interpro Cycling Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aksel* Aasheim*", Replacement:="Aksel Fischer Aasheim (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Herman* Dahl*", Replacement:="Herman Dahl (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Henrik* Evensen*", Replacement:="Henrik Evensen (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ole* Forfang*", Replacement:="Ole Forfang (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bj?rn* Hoem*", Replacement:="Bjørn Tore Hoem (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ludvik* Holstad*", Replacement:="Ludvik Aspelund Holstad (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?ivind* Lukkedal*", Replacement:="Øivind Lukkedal (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fritjof* R?in?s*", Replacement:="Fritjof Røinås (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Vangstad*", Replacement:="Andreas Vangstad (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="S?ren* W?renskjold*", Replacement:="Søren Wærenskjold (Nor) Joker BMI", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tatsuki* Amagoi*", Replacement:="Tatsuki Amagoi (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yudai* Arashiro*", Replacement:="Yudai Arashiro (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marcos* Garcia*", Replacement:="Marcos Garcia Fernandez (Spa) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Salvador* Guardiola*", Replacement:="Salvador Guardiola (Spa) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Lebas*", Replacement:="Thomas Lebas (Fra) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yasuharu* Nakajima*", Replacement:="Yasuharu Nakajima (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jin* Okubo*", Replacement:="Jin Okubo (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hiroshi* Tsubaki*", Replacement:="Hiroshi Tsubaki (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Genki* Yamamoto*", Replacement:="Genki Yamamoto (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Masaki* Yamamoto*", Replacement:="Masaki Yamamoto (Jpn) Kinan Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Camacho*", Replacement:="Juan Camacho Del Fresno (Spa) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Isaac* Canton*", Replacement:="Isaac Canton Serrano (Spa) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Garcia*", Replacement:="Jose Antonio Garcia Martin (Spa) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michele* Gazzoli*", Replacement:="Michele Gazzoli (Ita) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Lopez*", Replacement:="Juan Pedro Lopez Perez (Spa) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefano* Oldani*", Replacement:="Stefano Oldani (Ita) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Puppio*", Replacement:="Antonio Puppio (Ita) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michel* Ries*", Replacement:="Michel Ries (Lux) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuele* Rubino*", Replacement:="Samuele Rubino (Ita) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diego* Sevilla*", Replacement:="Diego Pablo Sevilla Lopez (Spa) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Viegas*", Replacement:="Daniel Viegas (Por) Kometa Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seonhoe* Bang*", Replacement:="Seonhoe Bang (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jaeyeon* Im*", Replacement:="Jaeyeon Im (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daeyeong* Joo*", Replacement:="Daeyeong Joo (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kangeun* Joo*", Replacement:="Kangeun Joo (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Taewoo* Kang*", Replacement:="Taewoo Kang (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Geonjin* Kim*", Replacement:="Geonjin Kim (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sangpyo* Kim*", Replacement:="Sangpyo Kim (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dongin* Shin*", Replacement:="Dongin Shin (Kor) Korail Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daeyeon* Kim*", Replacement:="Daeyeon Kim (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Donguk* Kim*", Replacement:="Donguk Kim (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jaehyun* Kim*", Replacement:="Jaehyun Kim (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jihun* Kim*", Replacement:="Jihun Kim (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kookhyun* Kim*", Replacement:="Kookhyun Kim (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Soonyeong* Kwon*", Replacement:="Soonyeong Kwon (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yongchan* Lee*", Replacement:="Yongchan Lee (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kyoungho* Park*", Replacement:="Kyoungho Park (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joonyong* Seo*", Replacement:="Joonyong Seo (Kor) KSPO Bianchi Asia Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vitaliy* Buts*", Replacement:="Vitaliy Buts (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kostiantyn* Dakhnovskyi*", Replacement:="Kostiantyn Dakhnovskyi (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yaroslav* Hnidashev*", Replacement:="Yaroslav Hnidashev (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oleksandr* Shchypak*", Replacement:="Oleksandr Shchypak (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vladyslav* Soltasiuk*", Replacement:="Vladyslav Soltasiuk (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yaroslav* Tolstopiatenko*", Replacement:="Yaroslav Tolstopiatenko (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andriy* Vasylyuk*", Replacement:="Andriy Vasylyuk (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maksym* Yaroshenko*", Replacement:="Maksym Yaroshenko (Ukr) KYIV Capital Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ant?nio* Barbio*", Replacement:="António Barbio (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rodrigo* Caixas*", Replacement:="Rodrigo Caixas (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andr?* Crispim*", Replacement:="André Crispim (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emanuel* Duarte*", Replacement:="Emanuel Duarte (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonel* Firmino*", Replacement:="Leonel Firmino (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gonçalo* Lea?a*", Replacement:="Gonçalo Leaça (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="F?bio* Oliveira*", Replacement:="Fábio Oliveira (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andr?* Ramalho*", Replacement:="André Ramalho (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Ribeiro*", Replacement:="David Ribeiro (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marvin* Scheulen*", Replacement:="Marvin Scheulen (Por) L.A. Aluminios- L.A. Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jack* Burke*", Replacement:="Jack Burke (Can) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Konrad* Ge?ner*", Replacement:="Konrad Geßner (Ger) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Colin* Heiderscheid*", Replacement:="Colin Heiderscheid (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arthur* Kluckers*", Replacement:="Arthur Kluckers (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Krieger*", Replacement:="Alexander Krieger (Ger) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Misch* Leyder*", Replacement:="Misch Leyder (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pit* Leyder*", Replacement:="Pit Leyder (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Maas*", Replacement:="Jan Maas (Ned) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filip* Maciejuk*", Replacement:="Filip Maciejuk (Pol) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ga?tan* Pons*", Replacement:="Gaëtan Pons (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Szymon* Rekita*", Replacement:="Szymon Rekita (Pol) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pit* Schlechter*", Replacement:="Pit Schlechter (Lux) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mario* Spengler*", Replacement:="Mario Spengler (Swi) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bas* van Belle*", Replacement:="Bas van Belle (Ned) Leopard Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takeaki* Amezawa*", Replacement:="Takeaki Amezawa (Jpn) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Timothy* Guy*", Replacement:="Timothy Guy (Aus) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Benjamin* Hill*", Replacement:="Benjamin Hill (Aus) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wen* Huang*", Replacement:="Wen Chung Huang (Tpe) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yuan* Peng*", Replacement:="Yuan Tang Peng (Tpe) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Viktor* Potocki*", Replacement:="Viktor Potocki (Cro) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tilen* Fink?t*", Replacement:="Tilen Finkšt (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matic* Gro?elj*", Replacement:="Matic Grošelj (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rok* Koro?ec*", Replacement:="Rok Korošec (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alja?* Prah*", Replacement:="Aljaž Prah (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?iga* Ru?igaj*", Replacement:="Žiga Ručigaj (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="An?e* Skok*", Replacement:="Anže Skok (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luka* Vrhovnik*", Replacement:="Luka Vrhovnik (Slo) Ljubljana Gusto Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sergey* Malnev*", Replacement:="Sergey Malnev (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arseny* Nikiforov*", Replacement:="Arseny Nikiforov (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Savva* Novikov*", Replacement:="Savva Novikov (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexandr* Smirnov*", Replacement:="Alexandr Smirnov (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dmitrii* Sokolov*", Replacement:="Dmitrii Sokolov (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kirill* Sveshnikov*", Replacement:="Kirill Sveshnikov (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Vdovin*", Replacement:="Alexander Vdovin (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sergey* Vdovin*", Replacement:="Sergey Vdovin (Rus) Lokosphinx", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elchin* Asadov*", Replacement:="Elchin Asadov (Aze) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stevan* Kervadec*", Replacement:="Stevan Kervadec (Fra) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mahmud* Mammadov*", Replacement:="Mahmud Mammadov (Aze) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roman* Deshko*", Replacement:="Roman Deshko (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pavlo* Duma*", Replacement:="Pavlo Duma (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Volodymyr* Dzhus*", Replacement:="Volodymyr Dzhus (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oleksii* Kasianov*", Replacement:="Oleksii Kasianov (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Illya* Klepikov*", Replacement:="Illya Klepikov (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oleksander* Kryvych*", Replacement:="Oleksander Kryvych (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Timur* Malieiev*", Replacement:="Timur Malieiev (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bohdan* Musiienko*", Replacement:="Bohdan Musiienko (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Valeriy* Romanenkov*", Replacement:="Valeriy Romanenkov (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andrii* Rozhoniuk*", Replacement:="Andrii Rozhoniuk (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maksym* Vasyliev*", Replacement:="Maksym Vasyliev (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mykyta* Zubenko*", Replacement:="Mykyta Zubenko (Ukr) LVIV Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dongheon* Cha*", Replacement:="Dongheon Cha (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hyosuk* Gong*", Replacement:="Hyosuk Gong (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hun* Jang*", Replacement:="Hun Jang (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Euro* Kim*", Replacement:="Euro Kim (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hyukjin* Kyui*", Replacement:="Hyukjin Kyui (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keonwoo* Park*", Replacement:="Keonwoo Park (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sang* Park*", Replacement:="Sang Hong Park (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sanghoon* Park*", Replacement:="Sanghoon Park (Kor) LX Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ian* Bibby*", Replacement:="Ian Bibby (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Cuming*", Replacement:="Michael Cuming (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Richard* Handley*", Replacement:="Richard Handley (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matthew* Holmes*", Replacement:="Matthew Holmes (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tobyn* Horton*", Replacement:="Tobyn Horton (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joseph* Laverick*", Replacement:="Joseph Laverick (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonathan* Mcevoy*", Replacement:="Jonathan Mcevoy (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Moses*", Replacement:="Thomas Moses (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonathan* Mould*", Replacement:="Jonathan Mould (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="George* Pym*", Replacement:="George Pym (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Erick* Rowsell*", Replacement:="Erick Rowsell (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Connor* Swift*", Replacement:="Connor Swift (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joey* Walker*", Replacement:="Joey Walker (GBr) Madison Genesis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yannik* Achterberg*", Replacement:="Yannik Achterberg (Ger) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Auer*", Replacement:="Daniel Auer (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bastian* Frick*", Replacement:="Bastian Frick (Ger) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Valentin* G?tzinger*", Replacement:="Valentin Götzinger (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefan* Kolb*", Replacement:="Stefan Kolb (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hans?J?rg* Leopold*", Replacement:="Hans-Jörg Leopold (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kilian* Rietzler*", Replacement:="Kilian Rietzler (Ger) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Ritzinger*", Replacement:="Felix Ritzinger (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jodok* Salzmann*", Replacement:="Jodok Salzmann (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johannes* Schinnagel*", Replacement:="Johannes Schinnagel (Ger) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lukas* Schlemmer*", Replacement:="Lukas Schlemmer (Aut) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Helmut* Trettwer*", Replacement:="Helmut Trettwer (Ger) Maloja Pushbikers", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Angelo* De Clercq*", Replacement:="Angelo De Clercq (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arno* Debeir*", Replacement:="Arno Debeir (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anton* Ferdinande*", Replacement:="Anton Ferdinande (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eli* Iserbyt*", Replacement:="Eli Iserbyt (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Kamp*", Replacement:="Ryan Kamp (Ned) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kevin* Pauwels*", Replacement:="Kevin Pauwels (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dieter* Vanthourenhout*", Replacement:="Dieter Vanthourenhout (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Vanthourenhout*", Replacement:="Michael Vanthourenhout (Bel) Marlux-Bingoal", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lucas* Casas*", Replacement:="Lucas Casas Gutierrez (Spa) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ruben* Caseny*", Replacement:="Ruben Caseny Catala (Spa) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Coronel*", Replacement:="Samuel Coronel Gonzalez (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elias* Escobar*", Replacement:="Elias Escobar Benitez (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jorge* Ferrer*", Replacement:="Jorge Ferrer Bueno (Spa) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bernardo* Flor*", Replacement:="Bernardo Flor Velazquez (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alderico* Gamarra*", Replacement:="Alderico Giovanni Gamarra Furlotti (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Maidana*", Replacement:="David Alexander Maidana Ortiz (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gustavo* Mi?o*", Replacement:="Gustavo Adolfo Miño Baez (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ernesto* Mora*", Replacement:="Ernesto Mora Ramirez (Par) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Juan* Salas*", Replacement:="Juan Eduardo Salas Robledo (Arg) Massi Vivo-Grupo Oresy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Orluis* Aular*", Replacement:="Orluis Aular (Ven) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Airan* Fernandez*", Replacement:="Airan Fernandez Casasola (Spa) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryohei* Komori*", Replacement:="Ryohei Komori (Jpn) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Francisco* Mancebo*", Replacement:="Francisco Mancebo Perez (Spa) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Naoki* Mukaigawa*", Replacement:="Naoki Mukaigawa (Jpn) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Junya* Sano*", Replacement:="Junya Sano (Jpn) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Toribio*", Replacement:="Jose Vicente Toribio Alcolea (Spa) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daiki* Yasuhara*", Replacement:="Daiki Yasuhara (Jpn) Matrix Powertag", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Edward* Beltran*", Replacement:="Edward Alexander Beltran Suarez (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Robinson* Chalapud*", Replacement:="Robinson Eduardo Chalapud Gomez (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fabio* Duarte*", Replacement:="Fabio Andres Duarte Arevalo (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cristhian* Montoya*", Replacement:="Cristhian Montoya Giraldo (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Robigzon* Oyola*", Replacement:="Robigzon Leandro Oyola Oyola (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cesar* Paredes*", Replacement:="Cesar Nicolas Paredes Avellaneda (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Weimar* Roldan*", Replacement:="Weimar Alfonso Roldan Ortiz (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Sevilla*", Replacement:="Oscar Miguel Sevilla Rivera (Spa) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Harold* Tejada*", Replacement:="Harold Alfonso Tejada Canacue (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Walter* Vargas*", Replacement:="Walter Alejandro Vargas Alzate (Col) Medellin", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Erik* Bergstr?m Frisk*", Replacement:="Erik Bergström Frisk (Swe) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hannes* Bergstr?m Frisk*", Replacement:="Hannes Bergström Frisk (Swe) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Edmund* Bradbury*", Replacement:="Edmund Bradbury (GBr) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roy* Eefting*", Replacement:="Roy Eefting (Ned) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christoffer* Eriksson*", Replacement:="Christoffer Eriksson (Swe) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ben* Hetherington*", Replacement:="Ben Hetherington (GBr) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fredrik* Ludvigsson*", Replacement:="Fredrik Ludvigsson (Swe) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Robert* Orr*", Replacement:="Robert Orr (GBr) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Volkers*", Replacement:="Samuel Volkers (Aus) Memil Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Barac*", Replacement:="Antonio Barac (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristijan* Budimir*", Replacement:="Kristijan Budimir (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mateo* Frankovic*", Replacement:="Mateo Frankovic (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Jabuka*", Replacement:="David Jabuka (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emanuel* Kiserlovski*", Replacement:="Emanuel Kiserlovski (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lorenzo* Marenzi*", Replacement:="Lorenzo Marenzi (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lovro* Matek*", Replacement:="Lovro Matek (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Toni* Srbic*", Replacement:="Toni Srbic (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marin* Zorko*", Replacement:="Marin Zorko (Cro) Meridiana Kamen Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stanislau* Bazhkou*", Replacement:="Stanislau Bazhkou (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anton* Ivashkin*", Replacement:="Anton Ivashkin (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Siarhei* Papok*", Replacement:="Siarhei Papok (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raman* Ramanau*", Replacement:="Raman Ramanau (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Branislau* Samoilau*", Replacement:="Branislau Samoilau (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nikolai* Shumov*", Replacement:="Nikolai Shumov (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yauhen* Sobal*", Replacement:="Yauhen Sobal (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vasili* Strokau*", Replacement:="Vasili Strokau (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eduard* Vorganov*", Replacement:="Eduard Vorganov (Rus) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chiel* Breukelman*", Replacement:="Chiel Breukelman (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeen* de Jong*", Replacement:="Jeen de Jong (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maarten* de Jonge*", Replacement:="Maarten de Jonge (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adriaan* Janssen*", Replacement:="Adriaan Janssen (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wim* Kleiman*", Replacement:="Wim Kleiman (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lars* Loohuis*", Replacement:="Lars Loohuis (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alex* Molenaar*", Replacement:="Alex Molenaar (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Folkert* Oostra*", Replacement:="Folkert Oostra (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rick* Pluimers*", Replacement:="Rick Pluimers (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Pluto*", Replacement:="Martin Pluto (Lat) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Santoro*", Replacement:="Antonio Santoro (Ita) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ivar* Slik*", Replacement:="Ivar Slik (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rick* van Breda*", Replacement:="Rick van Breda (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bas* van der Kooij*", Replacement:="Bas van der Kooij (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mel* van der Veekens*", Replacement:="Mel van der Veekens (Ned) Monkey Town-A Block", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wilson* Haro*", Replacement:="Wilson Haro (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Harold* Lopez*", Replacement:="Harold Martin Lopez Granizo (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lenin* Montenegro*", Replacement:="Lenin Javier Montenegro Farinango (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Santiago* Montenegro*", Replacement:="Santiago Montenegro (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anderson* Paredes*", Replacement:="Anderson Paredes (Ven) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cristian* Pita*", Replacement:="Cristian Pita (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexis* Quinteros*", Replacement:="Alexis Quinteros (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Ragonessi*", Replacement:="Jose Ragonessi (Ecu) Movistar Team Ecuador", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takaaki* Higuchi*", Replacement:="Takaaki Higuchi (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tomoyuki* Iino*", Replacement:="Tomoyuki Iino (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shota* Minowa*", Replacement:="Shota Minowa (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kaito* Nakamura*", Replacement:="Kaito Nakamura (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hayato* Nishio*", Replacement:="Hayato Nishio (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keito* Nishio*", Replacement:="Keito Nishio (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Masayuki* Shibata*", Replacement:="Masayuki Shibata (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Masaki* Shimojima*", Replacement:="Masaki Shimojima (Jpn) Nasu Blasen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Benjamin* Andrews*", Replacement:="Benjamin Andrews (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fintan* Conway*", Replacement:="Fintan Conway (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rowan* Dever*", Replacement:="Rowan Dever (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Clinton* Edwards*", Replacement:="Clinton Edwards (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesse* Featonby*", Replacement:="Jesse Featonby (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="William* Hodges*", Replacement:="William Hodges (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Campbell* Jones*", Replacement:="Campbell Jones (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karl* Michelin?Beard*", Replacement:="Karl Michelin-Beard (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Conor* Murtagh*", Replacement:="Conor Murtagh (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Callum* Pearce*", Replacement:="Callum Pearce (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sebastian* Presley*", Replacement:="Sebastian Presley (Aus) Oliver's Real Food Racing", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Saeed* Dargahi*", Replacement:="Saeed Dargahi (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ahmad* Noormohammadi*", Replacement:="Ahmad Noormohammadi Baygi (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Masoud* Poor*", Replacement:="Masoud Poor Hemmati (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keivan* Rakani*", Replacement:="Keivan Rakani (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kamal* Razi*", Replacement:="Kamal Razi (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mahdi* Rouzbahaneh*", Replacement:="Mahdi Rouzbahaneh (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seyed* Salimi*", Replacement:="Seyed Mohammadmoein Salimi (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ehsan* Vojdani*", Replacement:="Ehsan Vojdani (IRI) Omidnia Mashhad Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wojciech* Pszczolarski*", Replacement:="Wojciech Pszczolarski (Pol) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Babor*", Replacement:="Daniel Babor (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tomas* Barta*", Replacement:="Tomas Barta (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marek* Doln?cek*", Replacement:="Marek Dolnícek (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ludek* Lichnovsk?*", Replacement:="Ludek Lichnovský (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matous* Mestan*", Replacement:="Matous Mestan (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vladimír* Miksan?k*", Replacement:="Vladimír Miksaník (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Denis* Rugovac*", Replacement:="Denis Rugovac (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karel* Tyrpekl*", Replacement:="Karel Tyrpekl (Cze) Pardus-Tufo Prostejov", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jens* Adams*", Replacement:="Jens Adams (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lander* Loockx*", Replacement:="Lander Loockx (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Braam* Merlier*", Replacement:="Braam Merlier (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tim* Merlier*", Replacement:="Tim Merlier (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yannick* Peeters*", Replacement:="Yannick Peeters (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daan* Soete*", Replacement:="Daan Soete (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Diether* Sweeck*", Replacement:="Diether Sweeck (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laurens* Sweeck*", Replacement:="Laurens Sweeck (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Toon* Vandebosch*", Replacement:="Toon Vandebosch (Bel) Pauwels Sauzen-Vastgoedservice", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Reynard* Butler*", Replacement:="Reynard Butler (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rohan* *", Replacement:="Rohan Du Plooy (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mitchell* Eliot*", Replacement:="Mitchell Eliot (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="James* Fourie*", Replacement:="James Fourie (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Songezo* Jim*", Replacement:="Songezo Jim (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jayde* Julius*", Replacement:="Jayde Julius (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mornay* Van Heerden*", Replacement:="Mornay Van Heerden (RSA) Protouch", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Benta*", Replacement:="João Benta (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Antonio* Gomez*", Replacement:="Antonio Gomez de La Torre (Spa) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pablo* Guerrero*", Replacement:="Pablo Guerrero Bonilla (Spa) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu?s* Mendon?a*", Replacement:="Luís Mendonça (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hugo* Nunes*", Replacement:="Hugo Nunes (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Rodrigues*", Replacement:="David Rodrigues (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Salgado*", Replacement:="João Salgado (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Afonso* Silva*", Replacement:="Afonso Silva (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Silva*", Replacement:="Daniel Silva (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu?s* Silva*", Replacement:="Luís Gabriel Silva Gomes (Por) Radio Popular-Boavista", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rafael* Andriato*", Replacement:="Rafael Andriato (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mauricio* Bielinski*", Replacement:="Mauricio Bielinski Knapp (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felipe* Brito*", Replacement:="Felipe Aparecido Brito Ronzani (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cristian* Da*", Replacement:="Cristian Egidio Da Rosa (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeovane* *", Replacement:="Jeovane Junior De Oliveira (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alessandro* Ferreira*", Replacement:="Alessandro Ferreira Santos Guimaraes (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonardo* Finkler*", Replacement:="Leonardo Henrique Finkler (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rodrigo* Nascimento*", Replacement:="Rodrigo Nascimento (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lucas* Ribeiro*", Replacement:="Lucas Ribeiro Motta (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joao* Rossi*", Replacement:="Joao Pedro Rossi (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vitor* Silvestre*", Replacement:="Vitor Gustavo Silvestre Teixeira (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alan* Valencio*", Replacement:="Alan Valencio Maniezzo (Bra) São Francisco Saúde-Klabin-SME Ribeirão Preto", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tiago* Antunes*", Replacement:="Tiago Antunes (Por) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thymen* Arensman*", Replacement:="Thymen Arensman (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sven* Burger*", Replacement:="Sven Burger (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alberto* Dainese*", Replacement:="Alberto Dainese (Ita) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Evans*", Replacement:="Alexander Evans (Aus) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kaden* Groves*", Replacement:="Kaden Groves (Aus) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adam* Hartley*", Replacement:="Adam Hartley (GBr) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daan* Hoole*", Replacement:="Daan Hoole (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marten* Kooistra*", Replacement:="Marten Kooistra (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jordi* Meeus*", Replacement:="Jordi Meeus (Bel) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesper* Rasch*", Replacement:="Jesper Rasch (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ide* Schelling*", Replacement:="Ide Schelling (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Giorgios* Stavrakakis*", Replacement:="Giorgios Stavrakakis (Gre) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Minne* Verboom*", Replacement:="Minne Verboom (Ned) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barnabás* Pe?k*", Replacement:="Barnabás Peák (Hun) SEG Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mideum* Joo*", Replacement:="Mideum Joo (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hoonmin* Jun*", Replacement:="Hoonmin Jun (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wooho* Jung*", Replacement:="Wooho Jung (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hyeonseok* Kim*", Replacement:="Hyeonseok Kim (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Okcheol* Kim*", Replacement:="Okcheol Kim (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kyeongho* Min*", Replacement:="Kyeongho Min (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jooyoung* Park*", Replacement:="Jooyoung Park (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yeongho* Seo*", Replacement:="Yeongho Seo (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Seokhyeon* We*", Replacement:="Seokhyeon We (Kor) Seoul Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shogo* Ichimaru*", Replacement:="Shogo Ichimaru (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shotaro* Iribe*", Replacement:="Shotaro Iribe (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keisuke* Kimura*", Replacement:="Keisuke Kimura (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takahiro* Koyama*", Replacement:="Takahiro Koyama (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Saya* Kuroeda*", Replacement:="Saya Kuroeda (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryo* Minato*", Replacement:="Ryo Minato (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tadaaki* Nakai*", Replacement:="Tadaaki Nakai (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takuya* Nakata*", Replacement:="Takuya Nakata (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kota* Yokoyama*", Replacement:="Kota Yokoyama (Jpn) Shimano Racing Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julian* Gruber*", Replacement:="Julian Gruber (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marvin* Hammerschmid*", Replacement:="Marvin Hammerschmid (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raphael* Hammerschmid*", Replacement:="Raphael Hammerschmid (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Holland*", Replacement:="Michael Holland (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefan* Mastaller*", Replacement:="Stefan Mastaller (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Umhaller*", Replacement:="Andreas Umhaller (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Umhaller*", Replacement:="Thomas Umhaller (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lukas* Viehberger*", Replacement:="Lukas Viehberger (Aut) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matej* Mugerli*", Replacement:="Matej Mugerli (Slo) Sport.Land. Niederösterreich Selle Smp-St. Rich", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicolas* Baldo*", Replacement:="Nicolas Baldo (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Romain* Feillu*", Replacement:="Romain Feillu (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alo* Jakin*", Replacement:="Alo Jakin (Est) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kevin* Le Cunff*", Replacement:="Kevin Le Cunff (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anthony* Maldonado*", Replacement:="Anthony Maldonado (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Flavien* Maurelet*", Replacement:="Flavien Maurelet (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yoann* Paillot*", Replacement:="Yoann Paillot (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Camille* Thominet*", Replacement:="Camille Thominet (Fra) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Morn?* Van Niekerk*", Replacement:="Morné Van Niekerk (RSA) St Michel-Auber 93", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefan* Bissegger*", Replacement:="Stefan Bissegger (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gian* Friesecke*", Replacement:="Gian Friesecke (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Beno?t* Guinchard*", Replacement:="Benoît Guinchard (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raphael* Kr?hemann*", Replacement:="Raphael Krähemann (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Damian* L?scher*", Replacement:="Damian Lüscher (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yves* L?tolf*", Replacement:="Yves Lütolf (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fabian* Paumann*", Replacement:="Fabian Paumann (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matthias* Reutimann*", Replacement:="Matthias Reutimann (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lukas* R?egg*", Replacement:="Lukas Rüegg (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mauro* Schmid*", Replacement:="Mauro Schmid (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cyrille* Thi?ry*", Replacement:="Cyrille Thièry (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alex* Vogel*", Replacement:="Alex Vogel (Swi) Swiss Racing Academy", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Boucher*", Replacement:="David Boucher (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bryan* Boussaer*", Replacement:="Bryan Boussaer (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jelle* Cant*", Replacement:="Jelle Cant (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arne* De Groote*", Replacement:="Arne De Groote (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Niels* De Rooze*", Replacement:="Niels De Rooze (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Goeman*", Replacement:="Jonas Goeman (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Joseph*", Replacement:="Thomas Joseph (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jelle* Mannaerts*", Replacement:="Jelle Mannaerts (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kirill* Pozdnyakov*", Replacement:="Kirill Pozdnyakov (Aze) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ylber* Sefa*", Replacement:="Ylber Sefa (Alb) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Abram* Stockman*", Replacement:="Abram Stockman (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michiel* Stockman*", Replacement:="Michiel Stockman (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Polychronis* Tzortzakis*", Replacement:="Polychronis Tzortzakis (Gre) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elias* Van Breussegem*", Replacement:="Elias Van Breussegem (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julien* Van Den Brande*", Replacement:="Julien Van Den Brande (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jordi* Van Dingenen*", Replacement:="Jordi Van Dingenen (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maxime* Vantomme*", Replacement:="Maxime Vantomme (Bel) Tarteletto-Isorex", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryo* Chikatani*", Replacement:="Ryo Chikatani (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eiya* Hashimoto*", Replacement:="Eiya Hashimoto (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yoshimitsu* Hiratsuka*", Replacement:="Yoshimitsu Hiratsuka (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shunsuke* Imamura*", Replacement:="Shunsuke Imamura (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manabu* Ishibashi*", Replacement:="Manabu Ishibashi (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kazushige* Kuboki*", Replacement:="Kazushige Kuboki (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shiki* Kuroeda*", Replacement:="Shiki Kuroeda (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daiki* Magosaki*", Replacement:="Daiki Magosaki (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Keitaro* Sawada*", Replacement:="Keitaro Sawada (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Suguru* Tokuda*", Replacement:="Suguru Tokuda (Jpn) Team Bridgestone Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aksel* Bech Skot?Hansen*", Replacement:="Aksel Bech Skot-Hansen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Bligaard Lyhne*", Replacement:="Daniel Bligaard Lyhne (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Steffen* Christiansen*", Replacement:="Steffen Munk Christiansen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jacob* Hindsgaul  Madsen*", Replacement:="Jacob Hindsgaul  Madsen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Morten* Hulgaard*", Replacement:="Morten Hulgaard (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julius* Johansen*", Replacement:="Julius Johansen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christian* J?rgensen*", Replacement:="Christian Moberg Jørgensen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mathias* Krigbaum*", Replacement:="Mathias Krigbaum (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Niklas* Larsen*", Replacement:="Niklas Larsen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frederik* Madsen*", Replacement:="Frederik Rodenberg Madsen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeppe* Pallesen*", Replacement:="Jeppe Aaskov Pallesen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rasmus* Pedersen*", Replacement:="Rasmus Pedersen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johan* Price?Pejtersen*", Replacement:="Johan Price-Pejtersen (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexander* Salby*", Replacement:="Alexander Salby (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Casper* Von Folsach*", Replacement:="Casper Von Folsach (Den) Team Coloquick", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paolo* Baccio*", Replacement:="Paolo Baccio (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andrea* Bagioli*", Replacement:="Andrea Bagioli (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Davide* Baldaccini*", Replacement:="Davide Baldaccini (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Davide* Botta*", Replacement:="Davide Botta (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luca* Colnaghi*", Replacement:="Luca Colnaghi (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alessandro* Covi*", Replacement:="Alessandro Covi (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jakob* Dorigoni*", Replacement:="Jakob Dorigoni (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paul* Double*", Replacement:="Paul Double (GBr) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jalel* Duranti*", Replacement:="Jalel Duranti (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Giacomo* Garavaglia*", Replacement:="Giacomo Garavaglia (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicolas* Gomez*", Replacement:="Nicolas David Gomez Jaramillo (Col) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Giulio* Masotto*", Replacement:="Giulio Masotto (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Meo*", Replacement:="Felix James Meo (NZl) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lucio* Pierantozzi*", Replacement:="Lucio Pierantozzi (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filippo* Rocchetti*", Replacement:="Filippo Rocchetti (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andrea* Toniatti*", Replacement:="Andrea Toniatti (Ita) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Richard* Holec*", Replacement:="Richard Holec (Cze) Team Colpack", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="H?kon* Aalrust*", Replacement:="Håkon Lunder Aalrust (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristian* Aasvold*", Replacement:="Kristian Aasvold (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Louis* Bendixen*", Replacement:="Louis Bendixen (Den) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Erlend* Blikra*", Replacement:="Erlend Jordbrekk Blikra (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jacob* Eriksson*", Replacement:="Jacob Eriksson (Swe) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Olav* Hjems?ter*", Replacement:="Olav Hjemsæter (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andre* Sotberg*", Replacement:="Andre Sotberg (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Trond* Trondsen*", Replacement:="Trond Håkon Trondsen (Nor) Team Coop", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dominik* Bauer*", Replacement:="Dominik Bauer (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Julian* Braun*", Replacement:="Julian Braun (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marc* Clauss*", Replacement:="Marc Clauss (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jelle* Donders*", Replacement:="Jelle Donders (Bel) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christopher* Heider*", Replacement:="Christopher Heider (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mik?* Heming*", Replacement:="Miká Heming (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simon* Laib*", Replacement:="Simon Laib (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Philipp* Mamos*", Replacement:="Philipp Mamos (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lars* Oreel*", Replacement:="Lars Oreel (Ned) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kilian* Steigner*", Replacement:="Kilian Steigner (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sven* Thurau*", Replacement:="Sven Thurau (Ger) Team Dauner-Akkon", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cameron* Beard*", Replacement:="Cameron Beard (USA) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ivan* Centrone*", Replacement:="Ivan Centrone (Lux) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tiago* *", Replacement:="Tiago Da Silva (Lux) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Louis* Deguide*", Replacement:="Louis Deguide (Bel) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Deruette*", Replacement:="Thomas Deruette (Bel) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Toni* Franz*", Replacement:="Toni Franz (Ger) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rapha?l* Kockelmann*", Replacement:="Raphaël Kockelmann (Lux) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wesley* Mol*", Replacement:="Wesley Mol (Ned) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gabriel* Muller*", Replacement:="Gabriel Muller (Fra) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeroen* Pattyn*", Replacement:="Jeroen Pattyn (Bel) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jan* Petelin*", Replacement:="Jan Petelin (Lux) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom* Thill*", Replacement:="Tom Thill (Lux) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wout* van Elzakker*", Replacement:="Wout van Elzakker (Ned) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laurin* Winter*", Replacement:="Laurin Winter (Ger) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bal?zs* R?zsa*", Replacement:="Balázs Rózsa (Hun) Team Differdange Geba", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Baron*", Replacement:="Felix Alejandro Baron Castillo (Col) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jorge* Castiblanco*", Replacement:="Jorge Camilo Castiblanco Cubides (Col) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jackson* Duncan*", Replacement:="Jackson Duncan (USA) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christopher* Horner*", Replacement:="Christopher Horner (USA) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Steven* Kalf*", Replacement:="Steven Kalf (Est) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aria* Kiani*", Replacement:="Aria Kiani (USA) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Laas*", Replacement:="Martin Laas (Est) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cameron* Piper*", Replacement:="Cameron Piper (USA) Team Illuminate", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michel* Gie?elmann*", Replacement:="Michel Gießelmann (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* H?rtig*", Replacement:="Jonas Härtig (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johannes* Hodapp*", Replacement:="Johannes Hodapp (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Felix* Intra*", Replacement:="Felix Intra (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jon* Knolle*", Replacement:="Jon Knolle (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lars* Kulbe*", Replacement:="Lars Kulbe (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Joann* Leinau*", Replacement:="Joann Leinau (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Louis* Leinau*", Replacement:="Louis Leinau (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lucas* Liss*", Replacement:="Lucas Liss (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Per* M?nstermann*", Replacement:="Per Christian Münstermann (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christoph* Schweizer*", Replacement:="Christoph Schweizer (Ger) Team Sauerland NRW p/b SKS Germany", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sait* Arana*", Replacement:="Sait Arana (Col) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adam* Carr*", Replacement:="Adam Carr (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Corey* Davis*", Replacement:="Corey Davis (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="David* Dawson*", Replacement:="David Dawson (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Dewald*", Replacement:="Ryan Dewald (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Jones*", Replacement:="Michael Jones (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="John* Kuhfahl*", Replacement:="John Kuhfahl (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Parker* Kyzer*", Replacement:="Parker Kyzer (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Justin* Mcquerry*", Replacement:="Justin Mcquerry (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ricky* Randall*", Replacement:="Ricky Randall (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonathan* Sundt*", Replacement:="Jonathan Sundt (USA) Team Skyline", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sam* Crome*", Replacement:="Sam Crome (Aus) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yusuke* Hatanaka*", Replacement:="Yusuke Hatanaka (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Robbie* Hucker*", Replacement:="Robbie Hucker (Aus) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yuma* Koishi*", Replacement:="Yuma Koishi (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raymond* Kreder*", Replacement:="Raymond Kreder (Ned) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Benjami* Prades*", Replacement:="Benjami Prades Reverter (Spa) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kosuke* Takeyama*", Replacement:="Kosuke Takeyama (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kohei* Uchima*", Replacement:="Kohei Uchima (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kohei* Yokotsuka*", Replacement:="Kohei Yokotsuka (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Naoya* Yoshioka*", Replacement:="Naoya Yoshioka (Jpn) Team Ukyo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dominik* Amann*", Replacement:="Dominik Amann (Aut) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gordian* Banzer*", Replacement:="Gordian Banzer (Swi) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jose* Diaz*", Replacement:="Jose Manuel Diaz Gallego (Spa) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Federspiel*", Replacement:="Daniel Federspiel (Aut) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Geismayr*", Replacement:="Daniel Geismayr (Aut) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniel* Knapp*", Replacement:="Daniel Knapp (Aut) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maximilian* Kuen*", Replacement:="Maximilian Kuen (Aut) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lukas* Meiler*", Replacement:="Lukas Meiler (Ger) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Meiler*", Replacement:="Martin Meiler (Ger) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Davide* Orrico*", Replacement:="Davide Orrico (Ita) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrick* Schelling*", Replacement:="Patrick Schelling (Swi) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jannik* Steimle*", Replacement:="Jannik Steimle (Ger) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Colin* St?ssi*", Replacement:="Colin Chris Stüssi (Swi) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roland* Thalmann*", Replacement:="Roland Thalmann (Swi) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Larry* Valvasori*", Replacement:="Larry Valvasori (Lux) Team Vorarlberg Santic", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Patrick* Clausen*", Replacement:="Patrick Clausen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Silas* Clemmensen*", Replacement:="Silas Zacharias Clemmensen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frederik* Eriksen*", Replacement:="Frederik Nybo Eriksen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rasmus* Guldhammer*", Replacement:="Rasmus Guldhammer (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Hyldgaard Jeppesen*", Replacement:="Andreas Hyldgaard Jeppesen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Johan* Langballe*", Replacement:="Johan Tiedemann Langballe (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mathias* Larsen*", Replacement:="Mathias Alexander E. Larsen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Mortensen*", Replacement:="Martin Mortensen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesper* Schultz*", Replacement:="Jesper Schultz (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Michael* Svendgaard*", Replacement:="Michael Carbel Svendgaard (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Frederik* Thomsen*", Replacement:="Frederik Thomsen (Den) Team Waoo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jim* Aernouts*", Replacement:="Jim Aernouts (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thijs* Aerts*", Replacement:="Thijs Aerts (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Toon* Aerts*", Replacement:="Toon Aerts (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yentl* Bekaert*", Replacement:="Yentl Bekaert (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicolas* Cleppe*", Replacement:="Nicolas Cleppe (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Goeman*", Replacement:="Andreas Goeman (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quinten* Hermans*", Replacement:="Quinten Hermans (Bel) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lars* van der Haar*", Replacement:="Lars van der Haar (Ned) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Corne* van Kessel*", Replacement:="Corne van Kessel (Ned) Telenet Fidea Lions", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Muhammad* Ahmad*", Replacement:="Muhammad Zulhilmie Afif Ahmad Zamri (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maral?Erdene* Batmunkh*", Replacement:="Maral-Erdene Batmunkh (Mgl) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Metkel* Eyob*", Replacement:="Metkel Eyob (Eri) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Choon* Goh*", Replacement:="Choon Huat Goh (Sin) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Irwandie* Lakasek*", Replacement:="Irwandie Lakasek (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mohd* Mat*", Replacement:="Mohd Shahrul Mat Amin (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nur* Mazuki*", Replacement:="Nur Amirull Fakhruddin Mazuki (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Drew* Morey*", Replacement:="Drew Morey (Aus) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Muhamad* Othman*", Replacement:="Muhamad Afiq Huznie Othman (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Artem* Ovechkin*", Replacement:="Artem Ovechkin (Rus) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Youcef* Reguigui*", Replacement:="Youcef Reguigui (Alg) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mohd* Rosdi*", Replacement:="Mohd Nor Umardi Rosdi (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mohd* Saleh*", Replacement:="Mohd Harrif Saleh (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mohd* Saleh*", Replacement:="Mohd Zamri Saleh (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zuladri* Zulkurnain*", Replacement:="Zuladri Amin Zulkurnain (Mas) Terengganu Inc. TSG Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thurakit* Boonratanathanakorn*", Replacement:="Thurakit Boonratanathanakorn (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thanakhan* Chaiyasombat*", Replacement:="Thanakhan Chaiyasombat (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Peerapol* Chawchiangkwang*", Replacement:="Peerapol Chawchiangkwang (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jetsada* Janluang*", Replacement:="Jetsada Janluang (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Navuti* Liphongyu*", Replacement:="Navuti Liphongyu (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sea* Loh*", Replacement:="Sea Keong Loh (Mas) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ariya* Phounsavath*", Replacement:="Ariya Phounsavath (Lao) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Phuchong* Saiudomsin*", Replacement:="Phuchong Saiudomsin (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thanawut* Sanikwathi*", Replacement:="Thanawut Sanikwathi (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sarawut* Sirironnachai*", Replacement:="Sarawut Sirironnachai (Tha) Thailand Continental Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Carneiro*", Replacement:="João Carneiro (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="F?bio* Fernandes*", Replacement:="Fábio Manuel Fernandes Costa (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Venceslau* Fernandes*", Replacement:="Venceslau Fernandes (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="H?lder* Gon?alves*", Replacement:="Hélder Gonçalves (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pedro* Lopes*", Replacement:="Pedro Lopes (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pedro* Lopes*", Replacement:="Pedro Lopes (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rafael* Louren?o*", Replacement:="Rafael Lourenço (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filipe* Rocha*", Replacement:="Filipe Rocha (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jos?* Sousa*", Replacement:="José Sousa (Por) UD Oliveirense-Inoutbuild", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Taeho* Choi*", Replacement:="Taeho Choi (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hyunsu* Jun*", Replacement:="Hyunsu Jun (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hajeon* Jung*", Replacement:="Hajeon Jung (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jimin* Jung*", Replacement:="Jimin Jung (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kihoon* Kim*", Replacement:="Kihoon Kim (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kunsoo* Kim*", Replacement:="Kunsoo Kim (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Unggyeom* Kim*", Replacement:="Unggyeom Kim (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kisuk* Lee*", Replacement:="Kisuk Lee (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sungbaek* Park*", Replacement:="Sungbaek Park (Kor) Uijeongbu Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Abrahamsen*", Replacement:="Jonas Abrahamsen (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Idar* Andersen*", Replacement:="Idar Andersen (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tobias* Foss*", Replacement:="Tobias S. Foss (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Markus* Hoelgaard*", Replacement:="Markus Hoelgaard (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Hvideberg*", Replacement:="Jonas Iversby Hvideberg (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristian* Kulset*", Replacement:="Kristian Kulset (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sindre* Kulset*", Replacement:="Sindre Kulset (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andreas* Leknessund*", Replacement:="Andreas Leknessund (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Erik* Resell*", Replacement:="Erik Nordsaeter Resell (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lars* Saugstad*", Replacement:="Lars Saugstad (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anders* Skaarseth*", Replacement:="Anders Skaarseth (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Iver* Skaarseth*", Replacement:="Iver Skaarseth (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristoffer* Skjerping*", Replacement:="Kristoffer Skjerping (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Torjus* Sleen*", Replacement:="Torjus Sleen (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Torstein* Tr?en*", Replacement:="Torstein Træen (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Urianstad*", Replacement:="Martin Bugge Urianstad (Nor) Uno-X Norwegian Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takayuki* Abe*", Replacement:="Takayuki Abe (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Takaaki* Hori*", Replacement:="Takaaki Hori (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hikaru* Kosaka*", Replacement:="Hikaru Kosaka (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nariyuki* Masuda*", Replacement:="Nariyuki Masuda (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Atsushi* Oka*", Replacement:="Atsushi Oka (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rei* Onodera*", Replacement:="Rei Onodera (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryu* Suzuki*", Replacement:="Ryu Suzuki (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yuzuru* Suzuki*", Replacement:="Yuzuru Suzuki (Jpn) Utsunomiya Blitzen", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stepan* Astafyev*", Replacement:="Stepan Astafyev (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gleb* Brussenskiy*", Replacement:="Gleb Brussenskiy (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yevgeniy* Fedorov*", Replacement:="Yevgeniy Fedorov (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kairat* Khadylbek*", Replacement:="Kairat Khadylbek (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matvey* Nikitin*", Replacement:="Matvey Nikitin (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexandr* Ovsyannikov*", Replacement:="Alexandr Ovsyannikov (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Daniil* Pronskiy*", Replacement:="Daniil Pronskiy (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vadim* Pronskiy*", Replacement:="Vadim Pronskiy (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexandr* Semenov*", Replacement:="Alexandr Semenov (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Grigoriy* Shtein*", Replacement:="Grigoriy Shtein (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Iogan* Shtein*", Replacement:="Iogan Shtein (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nikita* Sokolov*", Replacement:="Nikita Sokolov (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexey* Voloshin*", Replacement:="Alexey Voloshin (Kaz) Vino-Astana Motors", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu?s* Afonso*", Replacement:="Luís Afonso (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pedro* Andrade*", Replacement:="Pedro Andrade (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Ara?jo*", Replacement:="João Carlos Araújo Matias (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Barbosa*", Replacement:="João Barbosa (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rui* Castro*", Replacement:="Rui Emanuel Castro Rodrigues (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jesus* Del*", Replacement:="Jesus Del Pino Corrochano (Spa) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Xuban* Errazkin*", Replacement:="Xuban Errazkin Perez (Spa) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ant?nio* Ferreira*", Replacement:="António Ferreira (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Leite*", Replacement:="João Leite (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oscar* Pelegri*", Replacement:="Oscar Pelegri Ferrandis (Spa) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jo?o* Santos*", Replacement:="João Santos (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Filipe* Sousa*", Replacement:="Filipe Duarte Sousa Cardoso (Por) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bj?rn* Thurau*", Replacement:="Björn Thurau (Ger) Vito-Feirense-PNB", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adrian* Banaszek*", Replacement:="Adrian Banaszek (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pawel* Franczak*", Replacement:="Pawel Franczak (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mateusz* Grabis*", Replacement:="Mateusz Grabis (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sylwester* Janiszewski*", Replacement:="Sylwester Janiszewski (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mateusz* Komar*", Replacement:="Mateusz Komar (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Szymon* Krawczyk*", Replacement:="Szymon Krawczyk (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Krzysztof* Parma*", Replacement:="Krzysztof Parma (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leszek* Plucinski*", Replacement:="Leszek Plucinski (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adam* Stachowiak*", Replacement:="Adam Stachowiak (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mateusz* Taciak*", Replacement:="Mateusz Taciak (Pol) Voster ATS Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jonas* Castrique*", Replacement:="Jonas Castrique (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="F?lix* Dopchie*", Replacement:="Félix Dopchie (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Emerson* Fontaine*", Replacement:="Emerson Fontaine (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="J?r?my* Frehen*", Replacement:="Jérémy Frehen (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sylvain* Moniquet*", Replacement:="Sylvain Moniquet (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom* Paquot*", Replacement:="Tom Paquot (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yann* Pestiaux*", Replacement:="Yann Pestiaux (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laurenz* Rex*", Replacement:="Laurenz Rex (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jens* Reynders*", Replacement:="Jens Reynders (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marvin* Tasset*", Replacement:="Marvin Tasset (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tom* Van Vuchelen*", Replacement:="Tom Van Vuchelen (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nathan* Vandepitte*", Replacement:="Nathan Vandepitte (Fra) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quentin* Venner*", Replacement:="Quentin Venner (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sven* Verbeeck*", Replacement:="Sven Verbeeck (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nicolas* Wernimont*", Replacement:="Nicolas Wernimont (Bel) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luc* Wirtgen*", Replacement:="Luc Wirtgen (Lux) Wallonie-Bruxelles Development Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Samuel* Boardman*", Replacement:="Samuel Boardman (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maxx* Chance*", Replacement:="Maxx Chance (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Finn* Gullickson*", Replacement:="Finn Gullickson (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Jastrab*", Replacement:="Ryan Jastrab (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Kingsolver*", Replacement:="Ryan Kingsolver (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quinten* Kirby*", Replacement:="Quinten Kirby (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Colby* Lange*", Replacement:="Colby Lange (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kent* Ross*", Replacement:="Kent Ross (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Camden* Vodicka*", Replacement:="Camden Vodicka (USA) Wildlife Generation Pro Cycling p/b Maxxis", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False

@@ -1,1 +1,497 @@
-Selection.Replace What:="Wild* Kirsten*", Replacement:="Kirsten Wild (Ned) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=True
+Selection.Replace What:="Eri* Jelena*", Replacement:="Jelena Eri (Srb) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bariani* Giorgia*", Replacement:="Giorgia Bariani (Ita) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hosking* Chloe*", Replacement:="Chloe Hosking (Aus) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kasper* Romy*", Replacement:="Romy Kasper (Ger) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Na* Ahreum*", Replacement:="Ahreum Na (Kor) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paladin* Soraya*", Replacement:="Soraya Paladin (Ita) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pe?uela* Diana*", Replacement:="Diana Carolina Peñuela Martinez (Col) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quagliotto* Nadia*", Replacement:="Nadia Quagliotto (Ita) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raimondi* Jessica*", Replacement:="Jessica Raimondi (Ita) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Swinkels* Karlijn*", Replacement:="Karlijn Swinkels (Ned) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Trevisi* Anna*", Replacement:="Anna Trevisi (Ita) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van 'T Geloof* Maria*", Replacement:="Maria Apolonia van 'T Geloof (Ned) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yonamine* Eri*", Replacement:="Eri Yonamine (Jpn) Ale Cipollini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shekel* Olga*", Replacement:="Olga Shekel (Ukr) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Blais* Marie*", Replacement:="Marie Soleil Blais (Can) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Iskakova* Amiliya*", Replacement:="Amiliya Iskakova (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kurnossova* Marina*", Replacement:="Marina Kurnossova (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moreno* Blanca*", Replacement:="Blanca Liliana Moreno Canchon (Col) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pachshenko* Svetlana*", Replacement:="Svetlana Pachshenko (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pirrone* Elena*", Replacement:="Elena Pirrone (Ita) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Potapova* Faina*", Replacement:="Faina Potapova (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pradera* Jeydy*", Replacement:="Jeydy Pradera Bernal (Cub) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rodriguez* Carolina*", Replacement:="Carolina Rodriguez Gutierrez (Mex) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Saifutdinova* Natalya*", Replacement:="Natalya Saifutdinova (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Salazar* Lizbeth*", Replacement:="Lizbeth Yareli Salazar Vazquez (Mex) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sierra* Arlenis*", Replacement:="Arlenis Sierra (Cub) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Umutzhanova* Makhabbat*", Replacement:="Makhabbat Umutzhanova (Kaz) Astana Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alonso* Sandra*", Replacement:="Sandra Alonso Dominguez (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="D'Agostin* Nicole*", Replacement:="Nicole D'Agostin (Ita) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elbusto* Ainara*", Replacement:="Ainara Elbusto Arteaga (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gilabert* Ariana*", Replacement:="Ariana Gilabert Vilaplana (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gonzalez* Lucia*", Replacement:="Lucia Gonzalez Blanco (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gorostiza* Aroa*", Replacement:="Aroa Gorostiza Ulloa (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Grinczer* Natalie*", Replacement:="Natalie Grinczer (GBr) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ibarrola* Luisa*", Replacement:="Luisa Ibarrola Albizua (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lopez* Enara*", Replacement:="Enara Lopez Gallastegi (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Isabel*", Replacement:="Isabel Martin Martin (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martinez* Cristina*", Replacement:="Cristina Martinez Bonafe (Spa) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Schweizer* Doris*", Replacement:="Doris Schweizer (Swi) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yoshikawa* Miho*", Replacement:="Miho Yoshikawa (Jpn) Bizkaia-Durango", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Noskova* Nikola*", Replacement:="Nikola Noskova (Cze) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alzini* Martina*", Replacement:="Martina Alzini (Ita) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Banks* Elizabeth*", Replacement:="Elizabeth Banks (GBr) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chabbey* Elise*", Replacement:="Elise Chabbey (Swi) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hanselmann* Nicole*", Replacement:="Nicole Hanselmann (Swi) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Harvey* Mikayla*", Replacement:="Mikayla Harvey (NZl) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="J?rgensen* Emma*", Replacement:="Emma Cecilie Norsgaard Jørgensen (Den) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leth* Julie*", Replacement:="Julie Leth (Den) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ludwig* Cecilie Uttrup*", Replacement:="Cecilie Uttrup Ludwig (Den) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sperotto* Maria*", Replacement:="Maria Vittoria Sperotto (Ita) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Thomas* Leah*", Replacement:="Leah Thomas (USA) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wright* Sophie*", Replacement:="Sophie Wright (GBr) Bigla Pro Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Baks* Marissa*", Replacement:="Marissa Baks (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Beekhuis* Teuntje*", Replacement:="Teuntje Beekhuis (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Colborne* Henrietta*", Replacement:="Henrietta Colborne (GBr) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hofman* Merel*", Replacement:="Merel Hofman (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hoogeboom* Roos*", Replacement:="Roos Hoogeboom (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Klement* Melanie*", Replacement:="Melanie Klement (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ton* Quinty*", Replacement:="Quinty Ton (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Gogh* Natalie*", Replacement:="Natalie van Gogh (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wasmus* Nienke*", Replacement:="Nienke Wasmus (Ned) Biehler Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Medvedova* Tereza*", Replacement:="Tereza Medvedova (Svk) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barbieri* Rachele*", Replacement:="Rachele Barbieri (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Canvelli* Vania*", Replacement:="Vania Canvelli (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guderzo* Tatiana*", Replacement:="Tatiana Guderzo (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Magri* Silvia*", Replacement:="Silvia Magri (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pattaro* Francesca*", Replacement:="Francesca Pattaro (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Perini* Chiara*", Replacement:="Chiara Perini (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ragusa* Katia*", Replacement:="Katia Ragusa (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Scarsi* Gloria*", Replacement:="Gloria Scarsi (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Steigenga* Nicole*", Replacement:="Nicole Steigenga (Ned) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Valsecchi* Silvia*", Replacement:="Silvia Valsecchi (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zanardi* Silvia*", Replacement:="Silvia Zanardi (Ita) BePink", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Radotic* Mia*", Replacement:="Mia Radotic (Cro) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bravec* Urska*", Replacement:="Urska Bravec (Slo) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bujak* Eugenia*", Replacement:="Eugenia Bujak (Slo) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Longyka* Anja*", Replacement:="Anja Longyka (Slo) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pintar* Urska*", Replacement:="Urska Pintar (Slo) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Savic* Maja*", Replacement:="Maja Savic (Srb) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="?igart* Urska*", Replacement:="Urska Žigart (Slo) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Boogaard* Maaike*", Replacement:="Maaike Boogaard (Ned) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chursina* Anastasiia*", Replacement:="Anastasiia Chursina (Rus) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nilsson* Hanna*", Replacement:="Hanna Nilsson (Swe) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ratto* Rossella*", Replacement:="Rossella Ratto (Ita) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Simmonds* Hayley*", Replacement:="Hayley Simmonds (GBr) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van de Ree* Monique*", Replacement:="Monique van de Ree (Ned) Btc City Ljubljana", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Demey* Valerie*", Replacement:="Valerie Demey (Bel) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Korevaar* Jeanne*", Replacement:="Jeanne Korevaar (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kuijpers* Evy*", Replacement:="Evy Kuijpers (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lach* Marta*", Replacement:="Marta Lach (Pol) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Markus* Riejanne*", Replacement:="Riejanne Markus (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moolman?Pasio* Ashleigh*", Replacement:="Ashleigh Moolman-Pasio (RSA) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rooijakkers* Paulien*", Replacement:="Paulien Rooijakkers (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Skalniak* Agnieszka*", Replacement:="Agnieszka Skalniak (Pol) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stultiens* Sabrina*", Replacement:="Sabrina Stultiens (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van der Heijden* Inge*", Replacement:="Inge van der Heijden (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vos* Marianne*", Replacement:="Marianne Vos (Ned) CCC-Liv", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Augustinas* Evgenia*", Replacement:="Evgenia Augustinas (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Badykova* Gulnaz*", Replacement:="Gulnaz Badykova (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Baymetova* Renata*", Replacement:="Renata Baymetova (Uzb) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christoforou* Antri*", Replacement:="Antri Christoforou (Cyp) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Deyko* Olga*", Replacement:="Olga Deyko (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kasenova* Karina*", Replacement:="Karina Kasenova (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Khakimova* Alina*", Replacement:="Alina Khakimova (Uzb) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Knebeleva* Ekaterina*", Replacement:="Ekaterina Knebeleva (Uzb) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Neben* Amber*", Replacement:="Amber Leone Neben (USA) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Novolodskaya* Maria*", Replacement:="Maria Novolodskaya (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oshurkova* Elizaveta*", Replacement:="Elizaveta Oshurkova (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pitel* Edwige*", Replacement:="Edwige Pitel (Fra) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pliaskina* Anastasiia*", Replacement:="Anastasiia Pliaskina (Rus) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Saarelainen* Sari*", Replacement:="Sari Saarelainen (Fin) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zabelinskaya* Olga*", Replacement:="Olga Zabelinskaya (Uzb) Cogeas Mettler Look", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Abgrall* Noemie*", Replacement:="Noemie Abgrall (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Allin* Pauline*", Replacement:="Pauline Allin (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Grangier* India*", Replacement:="India Grangier (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lahaye* Lucie*", Replacement:="Lucie Lahaye (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Minaud* Manon*", Replacement:="Manon Minaud (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Morichon* Ana?s*", Replacement:="Anaïs Morichon (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Quiniou* Marine*", Replacement:="Marine Quiniou (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sachet* Iris*", Replacement:="Iris Sachet (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Verhulst* Gladys*", Replacement:="Gladys Verhulst (Fra) Charente-Maritime Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Amialiusik* Alena*", Replacement:="Alena Amialiusik (Blr) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barnes* Alice*", Replacement:="Alice Barnes (GBr) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barnes* Hannah*", Replacement:="Hannah Barnes (GBr) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cecchini* Elena*", Replacement:="Elena Cecchini (Ita) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cromwell* Tiffany*", Replacement:="Tiffany Cromwell (Aus) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Erath* Tanja*", Replacement:="Tanja Erath (Ger) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ferrand Prevot* Pauline*", Replacement:="Pauline Ferrand Prevot (Fra) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Klein* Lisa*", Replacement:="Lisa Klein (Ger) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ludwig* Hannah*", Replacement:="Hannah Ludwig (Ger) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Niewiadoma* Katarzyna*", Replacement:="Katarzyna Niewiadoma (Pol) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Riffel* Christa*", Replacement:="Christa Riffel (Ger) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Alexis*", Replacement:="Alexis Ryan (USA) Canyon-SRAM", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Allkokondi* Lisa*", Replacement:="Lisa Allkokondi (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Balducci* Francesca*", Replacement:="Francesca Balducci (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bortolotti* Simona*", Replacement:="Simona Bortolotti (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cilenti* Sofia*", Replacement:="Sofia Cilenti (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="De Ranieri* Lisa*", Replacement:="Lisa De Ranieri (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fetishi* Keti*", Replacement:="Keti Fetishi (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Geppi* Leonora*", Replacement:="Leonora Geppi (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Karafili* Joli*", Replacement:="Joli Karafili (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kristollari* Xhorxhia*", Replacement:="Xhorxhia Kristollari (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Metalja* Xhejna*", Replacement:="Xhejna Metalja (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Meucci* Claudia*", Replacement:="Claudia Meucci (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pirro* Loreta*", Replacement:="Loreta Pirro (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rizvanolli* Jona*", Replacement:="Jona Rizvanolli (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rusta* Elona*", Replacement:="Elona Rusta (Alb) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Salton* Basei*", Replacement:="Basei Marzia Salton (Ita) Conceria Zabri-Fanini", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Blaak* Chantal*", Replacement:="Chantal Blaak (Ned) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Buurman* Eva*", Replacement:="Eva Buurman (Ned) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Canuel* Karol?Ann*", Replacement:="Karol-Ann Canuel (Can) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="D`Hoore* Jolien*", Replacement:="Jolien D`Hoore (Bel) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dideriksen* Amalie*", Replacement:="Amalie Dideriksen (Den) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hall* Katharine*", Replacement:="Katharine Hall (USA) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Langvad* Annika*", Replacement:="Annika Langvad (Den) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Majerus* Christine*", Replacement:="Christine Majerus (Lux) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pieters* Amy*", Replacement:="Amy Pieters (Ned) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Schneider* Skylar*", Replacement:="Skylar Schneider (USA) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van den Bos* Jip*", Replacement:="Jip van den Bos (Ned) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van der Breggen* Anna*", Replacement:="Anna van der Breggen (Ned) Boels Dolmans Cyclingteam", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Anderson* Grace*", Replacement:="Grace Anderson (NZl) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barker* Elinor*", Replacement:="Elinor Barker (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barker* Megan*", Replacement:="Megan Barker (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christian* Anna*", Replacement:="Anna Christian (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dickinson* Eleanor*", Replacement:="Eleanor Dickinson (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Holden* Elizabeth*", Replacement:="Elizabeth Holden (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lloyd* Manon*", Replacement:="Manon Lloyd (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Parkinson* Abby?Mae*", Replacement:="Abby-Mae Parkinson (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Payton* Hannah*", Replacement:="Hannah Payton (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Shaw* Lucy*", Replacement:="Lucy Shaw (GBr) Drops", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Riabchenko* Tetiana*", Replacement:="Tetiana Riabchenko (Ukr) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Alexandre* Daniela*", Replacement:="Daniela Da Conceição Alexandre Reis (Por) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Berteau* Victoire*", Replacement:="Victoire Berteau (Fra) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="De Baat* Kim*", Replacement:="Kim De Baat (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Docx* Mieke*", Replacement:="Mieke Docx (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Druyts* Demmy*", Replacement:="Demmy Druyts (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Druyts* Kelly*", Replacement:="Kelly Druyts (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Druyts* Lenny*", Replacement:="Lenny Druyts (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Eraud* Severine*", Replacement:="Severine Eraud (Fra) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jeuland* Pascale*", Replacement:="Pascale Jeuland (Fra) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Markus* Kelly*", Replacement:="Kelly Markus (Ned) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sicot* Marion*", Replacement:="Marion Sicot (Fra) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Velzen* Bryony*", Replacement:="Bryony van Velzen (Ned) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vandenbroucke* Saartje*", Replacement:="Saartje Vandenbroucke (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vandenbulcke* Jesse*", Replacement:="Jesse Vandenbulcke (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vekemans* Anisha*", Replacement:="Anisha Vekemans (Bel) Doltcini-Van Eyck Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fasoi* Varvara*", Replacement:="Varvara Fasoi (Gre) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fraile* Andrea*", Replacement:="Andrea Fraile Mas (Spa) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gil* Saioa*", Replacement:="Saioa Gil Ranero (Spa) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hagiwara* Mayuko*", Replacement:="Mayuko Hagiwara (Jpn) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Isasi* Ziortza*", Replacement:="Ziortza Isasi Cristobal (Spa) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Laizane* Lija*", Replacement:="Lija Laizane (Lat) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pujol* Cristina*", Replacement:="Cristina Pujol Muñoz (Spa) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sanmartin* Paula*", Replacement:="Paula Sanmartin Rodriguez (Spa) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Santos* Sandra*", Replacement:="Sandra Santos (Por) Eneicue Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Becker* Charlotte*", Replacement:="Charlotte Becker (Ger) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bravard* Charlotte*", Replacement:="Charlotte Bravard (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Demay* Coralie*", Replacement:="Coralie Demay (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Duval* Eug?nie*", Replacement:="Eugénie Duval (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fahlin* Emilia*", Replacement:="Emilia Fahlin (Swe) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gillow* Shara*", Replacement:="Shara Gillow (Aus) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Grossetete* Ma?lle*", Replacement:="Maëlle Grossetete (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guilman* Victorie*", Replacement:="Victorie Guilman (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kitchen* Lauren*", Replacement:="Lauren Kitchen (Aus) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Le Net* Marie*", Replacement:="Marie Le Net (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Muzic* Evita*", Replacement:="Evita Muzic (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Richioud* Greta*", Replacement:="Greta Richioud (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wiel* Jade*", Replacement:="Jade Wiel (Fra) FDJ Nouvelle-Aquitaine Futuroscope", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Allison* Whitney*", Replacement:="Whitney Allison (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cerra* Jessica*", Replacement:="Jessica Cerra (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ganzar* Leigh Ann*", Replacement:="Leigh Ann Ganzar (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Goldman* Lindsay*", Replacement:="Lindsay Goldman (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kuliecza* Julie*", Replacement:="Julie Kuliecza (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Owen* Harriet*", Replacement:="Harriet Owen (GBr) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rachetto* Liza*", Replacement:="Liza Rachetto (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Teddergreen* Starla*", Replacement:="Starla Teddergreen (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vasse* Aimee*", Replacement:="Aimee Vasse (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Williams* Lily*", Replacement:="Lily Williams (USA) Hagens Berman-Supermint", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kormos* Veronika*", Replacement:="Veronika Anna Kormos (Hun) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Szab?* Zsófia*", Replacement:="Zsófia Szabó (Hun) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Defour* Lara*", Replacement:="Lara Defour (Bel) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Delbaere* Fien*", Replacement:="Fien Delbaere (Bel) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lopez* Margarita*", Replacement:="Margarita Lopez Llull (Spa) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lozano* Laura*", Replacement:="Laura Camila Lozano Ramirez (Col) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Meisels* Esther*", Replacement:="Esther Meisels (Isr) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mustonen* Sara*", Replacement:="Sara Mustonen (Swe) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Perchtold* Christina*", Replacement:="Christina Perchtold (Aut) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rotman* Lotte*", Replacement:="Lotte Rotman (Bel) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Schweinberger* Christina*", Replacement:="Christina Schweinberger (Aut) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Schweinberger* Kathrin*", Replacement:="Kathrin Schweinberger (Aut) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="S??emilch* Laura*", Replacement:="Laura Süßemilch (Ger) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Turblin* Chlo?*", Replacement:="Chloë Turblin (Fra) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Haaften* Kirstie*", Replacement:="Kirstie van Haaften (Ned) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Verhoeven* Suzanne*", Replacement:="Suzanne Verhoeven (Bel) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Waterreus* Kylie*", Replacement:="Kylie Waterreus (Ned) Health Mate-Ladies Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Feldmann* Pernille*", Replacement:="Pernille Larsen Feldmann (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Garner* Grace*", Replacement:="Grace Garner (GBr) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Garner* Lucy*", Replacement:="Lucy Garner (GBr) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="G?skjenn* Ingvild*", Replacement:="Ingvild Gåskjenn (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Heine* Vita*", Replacement:="Vita Heine (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lorvik* Ingrid*", Replacement:="Ingrid Lorvik (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lutro* Amalie*", Replacement:="Amalie Lutro (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Solvang* Julie*", Replacement:="Julie Solvang (Nor) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stougje* Chanella*", Replacement:="Chanella Stougje (Ned) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tagliaferro* Marta*", Replacement:="Marta Tagliaferro (Ita) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Uneken* Lonneke*", Replacement:="Lonneke Uneken (Ned) Hitec Products-Birk Sport", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Biryukova* Julia*", Replacement:="Julia Biryukova (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bondar* Viktoriya*", Replacement:="Viktoriya Bondar (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kliachina* Oksana*", Replacement:="Oksana Kliachina (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Klimchenko* Tetyana*", Replacement:="Tetyana Klimchenko (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kononenko* Valeriya*", Replacement:="Valeriya Kononenko (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martynyuk* Daryna*", Replacement:="Daryna Martynyuk (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nahirna* Anna*", Replacement:="Anna Nahirna (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sharga* Olena*", Replacement:="Olena Sharga (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Solovei* Ganna*", Replacement:="Ganna Solovei (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Yaroshenko* Viktoriia*", Replacement:="Viktoriia Yaroshenko (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zalizna* Valeria*", Replacement:="Valeria Zalizna (Ukr) Lviv Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Braam* Danique*", Replacement:="Danique Braam (Ned) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Castrique* Alana*", Replacement:="Alana Castrique (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Christmas* Danielle*", Replacement:="Danielle Christmas (GBr) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="de Jong* Demi*", Replacement:="Demi de Jong (Ned) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dessart* Marie*", Replacement:="Marie Dessart (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dom* Annelies*", Replacement:="Annelies Dom (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hoffmann* Chantal*", Replacement:="Chantal Hoffmann (Lux) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kopecky* Lotte*", Replacement:="Lotte Kopecky (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moonen* Puck*", Replacement:="Puck Moonen (Ned) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nguyen* Thi*", Replacement:="Thi That Nguyen (Vie) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Van de Velde* Julie*", Replacement:="Julie Van de Velde (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Van Den Steen* Kelly*", Replacement:="Kelly Van Den Steen (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vanhoutte* Fenna*", Replacement:="Fenna Vanhoutte (Bel) Lotto Soudal Ladies", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Biannic* Aude*", Replacement:="Aude Biannic (Fra) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fournier* Roxane*", Replacement:="Roxane Fournier (Fra) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Garcia* Margarita*", Replacement:="Margarita Victo Garcia Cañellas (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gonzalez* Alicia*", Replacement:="Alicia Gonzalez Blanco (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gutierrez* Sheyla*", Replacement:="Sheyla Gutierrez Ruiz (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jasinska* Malgorzata*", Replacement:="Malgorzata Jasinska (Pol) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Llamas* Lorena*", Replacement:="Lorena Llamas Garcia (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Merino* Eider*", Replacement:="Eider Merino Cortazar (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Oyarbide* Lourdes*", Replacement:="Lourdes Oyarbide Jimenez (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pati?o* Paula*", Replacement:="Paula Andrea Patiño Bedoya (Col) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rodriguez* Gloria*", Replacement:="Gloria Rodriguez Sanchez (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Teruel* Alba*", Replacement:="Alba Teruel Ribes (Spa) Movistar Team Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Allen* Jessica*", Replacement:="Jessica Allen (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brown* Grace*", Replacement:="Grace Brown (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Elvin* Gracie*", Replacement:="Gracie Elvin (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kennedy* Lucy*", Replacement:="Lucy Kennedy (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manly* Alexandra*", Replacement:="Alexandra Manly (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roy* Sarah*", Replacement:="Sarah Roy (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Spratt* Amanda*", Replacement:="Amanda Spratt (Aus) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tenniglo* Moniek*", Replacement:="Moniek Tenniglo (Ned) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Vleuten* Annemiek*", Replacement:="Annemiek van Vleuten (Ned) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Williams* Georgia*", Replacement:="Georgia Williams (NZl) Mitchelton-Scott Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Adegeest* Loes*", Replacement:="Loes Adegeest (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Buijsman* Nina*", Replacement:="Nina Buijsman (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="de Boer* Sophie*", Replacement:="Sophie de Boer (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="de Gast* Belle*", Replacement:="Belle de Gast (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="De Vuyst* Sofie*", Replacement:="Sofie De Vuyst (Bel) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Duyck* Ann?Sophie*", Replacement:="Ann-Sophie Duyck (Bel) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Knetemann* Roxane*", Replacement:="Roxane Knetemann (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Markus* Femke*", Replacement:="Femke Markus (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nagengast* Fleur*", Replacement:="Fleur Nagengast (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Raaijmakers* Marit*", Replacement:="Marit Raaijmakers (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Swinkels* Sylvie*", Replacement:="Sylvie Swinkels (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="* Meike*", Replacement:="Meike Uiterwijk Winkel (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van der Meer* Janine*", Replacement:="Janine van der Meer (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Veen* Esther*", Replacement:="Esther van Veen (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vollering* Demi*", Replacement:="Demi Vollering (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wiebes* Lorena*", Replacement:="Lorena Wiebes (Ned) Parkhotel Valkenburg", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Allar* Erica*", Replacement:="Erica Allar (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bergen* Sara*", Replacement:="Sara Bergen (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Beveridge* Allison*", Replacement:="Allison Beveridge (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Catlin* Kelly*", Replacement:="Kelly Catlin (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Doebel?Hickok* Krista*", Replacement:="Krista Doebel-Hickok (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ellsay* Gillian*", Replacement:="Gillian Ellsay (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Franz* Heidi*", Replacement:="Heidi Franz (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lay* Kirsti*", Replacement:="Kirsti Lay (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Maine* Katherine*", Replacement:="Katherine Maine (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mickey* Abigail*", Replacement:="Abigail Mickey (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moak* Summer*", Replacement:="Summer Moak (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Poidevin* Sara*", Replacement:="Sara Poidevin (Can) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="White* Emma*", Replacement:="Emma White (USA) Rally UHC Cycling Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Covrig* Ana*", Replacement:="Ana Maria Covrig (Rom) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fernandes* Clemilda*", Replacement:="Clemilda Fernandes Silva (Bra) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fidanza* Arianna*", Replacement:="Arianna Fidanza (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Fidanza* Martina*", Replacement:="Martina Fidanza (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Franchi* Elena*", Replacement:="Elena Franchi (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gasparini* Alice*", Replacement:="Alice Gasparini (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Manzoni* Gloria*", Replacement:="Gloria Manzoni (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Morzenti* Lisa*", Replacement:="Lisa Morzenti (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nardi* Gloria*", Replacement:="Gloria Nardi (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rossato* Beatrice*", Replacement:="Beatrice Rossato (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Silvestri* Debora*", Replacement:="Debora Silvestri (Ita) Eurotarget-Bianchi-Vittoria", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Casasola* Sara*", Replacement:="Sara Casasola (Ita) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Coston* Morgane*", Replacement:="Morgane Coston (Fra) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Debesay* Mosana*", Replacement:="Mosana Debesay (Eri) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dobrynina* Kseniia*", Replacement:="Kseniia Dobrynina (Rus) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gaio* Aurora*", Replacement:="Aurora Gaio (Ita) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ossola* Irena*", Replacement:="Irena Ossola (USA) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Picca* Valentina*", Replacement:="Valentina Picca (Ita) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Potokina* Anna*", Replacement:="Anna Potokina (Rus) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="H?jkov?* Mark?ta*", Replacement:="Markéta Hájková (Cze) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kir?ly* M?nika*", Replacement:="Mónika Király (Hun) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Novikova* Olena*", Replacement:="Olena Novikova (Ukr) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vysotska* Yevgeniya*", Replacement:="Yevgeniya Vysotska (Ukr) Servetto-Piumate-Beltrami TSA", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andersen* Susanne*", Replacement:="Susanne Andersen (Nor) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brand* Lucinda*", Replacement:="Lucinda Brand (Ned) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ensing* Janneke*", Replacement:="Janneke Ensing (Ned) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Georgi* Pfeiffer*", Replacement:="Pfeiffer Georgi (GBr) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kirchmann* Leah*", Replacement:="Leah Kirchmann (Can) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Labous* Juliette*", Replacement:="Juliette Labous (Fra) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lippert* Liane*", Replacement:="Liane Lippert (Ger) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mackaij* Floortje*", Replacement:="Floortje Mackaij (Ned) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mathiesen* Pernille*", Replacement:="Pernille Mathiesen (Den) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rivera* Coryn*", Replacement:="Coryn Rivera (USA) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Soek* Julia*", Replacement:="Julia Soek (Ned) Team Sunweb Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Barrera* Anet*", Replacement:="Anet Barrera Esparza (Mex) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Gutierrez* Ariadna*", Replacement:="Ariadna Gutierrez Arzaluz (Mex) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Prieto* Marcela*", Replacement:="Marcela Elizabeth Prieto Castañeda (Mex) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ram?rez* Andrea*", Replacement:="Andrea Ramírez Fregoso (Mex) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Salcedo* Jannie*", Replacement:="Jannie Milena Salcedo Zambrano (Col) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sanabria* Ana*", Replacement:="Ana Cristina Sanabria Sanchez (Col) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Santoyo* Brenda*", Replacement:="Brenda Andrea Santoyo Perez (Mex) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Soto* Jasmin*", Replacement:="Jasmin Gabriela Soto Lopez (Gua) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vargas* Maria*", Replacement:="Maria Jose Vargas Barrientos (CRc) Swapit Agolico", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Basterra* Andere*", Replacement:="Andere Basterra Aspe (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Blanco* Iurani*", Replacement:="Iurani Blanco Calbet (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Casas* Julia*", Replacement:="Julia Casas Codina (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ferreres* Isabel*", Replacement:="Isabel Ferreres Navarro (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Malatsetxebarria* Amaia*", Replacement:="Amaia Malatsetxebarria Ibaibarriaga (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martin* Sara*", Replacement:="Sara Martin Martin (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Martins* Maria*", Replacement:="Maria Martins (Por) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moreno* Alexandra*", Replacement:="Alexandra Moreno Roca (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Mu?oz* Mireia*", Replacement:="Mireia Muñoz Perez (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nevado* Ariadna*", Replacement:="Ariadna Nevado Gimeno (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Owen* Eln?*", Replacement:="Elné Owen (RSA) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rodriguez* Sofia*", Replacement:="Sofia Rodriguez Revert (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Trias* Ariadna*", Replacement:="Ariadna Trias Jordan (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Trias* Mireia*", Replacement:="Mireia Trias Jordan (Spa) Sopela Women's Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arreola* Sofia*", Replacement:="Sofia Arreola Navarro (Mex) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Boilard* Simone*", Replacement:="Simone Boilard (Can) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Clevenger* Erica*", Replacement:="Erica Clevenger (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Clyne* Margot*", Replacement:="Margot Clyne (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dragoo* Allie*", Replacement:="Allie Dragoo (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Duehring* Jasmin*", Replacement:="Jasmin Duehring (Can) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dygert* Chloe*", Replacement:="Chloe Dygert (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Luebke* Jennifer*", Replacement:="Jennifer Luebke (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Powless* Shayna*", Replacement:="Shayna Powless (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Roorda* Stephanie*", Replacement:="Stephanie Roorda (Can) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Valente* Jennifer*", Replacement:="Jennifer Valente (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wong* Melanie*", Replacement:="Melanie Wong (USA) Sho-Air Twenty20", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="* Audrey*", Replacement:="Audrey Cordon Ragot (Fra) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Deignan* Elizabeth*", Replacement:="Elizabeth Deignan (GBr) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hanson* Lauretta*", Replacement:="Lauretta Hanson (Aus) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lepist?* Lotta*", Replacement:="Lotta Pauliina Lepistö (Fin) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Longo Borghini* Elisa*", Replacement:="Elisa Longo Borghini (Ita) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Neff* Jolanda*", Replacement:="Jolanda Neff (Swi) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Noble* Ellen*", Replacement:="Ellen Noble (USA) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paternoster* Letizia*", Replacement:="Letizia Paternoster (Ita) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Plichta* Anna*", Replacement:="Anna Plichta (Pol) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="van Dijk* Ellen*", Replacement:="Ellen van Dijk (Ned) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Van Twisk* Abigail*", Replacement:="Abigail Van Twisk (GBr) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wiles* Tayler*", Replacement:="Tayler Wiles (USA) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Winder* Ruth*", Replacement:="Ruth Winder (USA) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Worrack* Trixi*", Replacement:="Trixi Worrack (Ger) Trek-Segafredo Women", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Albrecht* Lex*", Replacement:="Lex Albrecht (Can) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bruderer* Nicolle*", Replacement:="Nicolle Bruderer Cofiño (Gua) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chapman* Brodie*", Replacement:="Brodie Chapman (Aus) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cobb* Alice*", Replacement:="Alice Cobb (GBr) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Drexel* Ingrid*", Replacement:="Ingrid Drexel Clouthier (Mex) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guarnier* Megan*", Replacement:="Megan Guarnier (USA) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Jackson* Alison*", Replacement:="Alison Jackson (Can) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kessler* Nina*", Replacement:="Nina Kessler (Ned) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lucas* Sharlotte*", Replacement:="Sharlotte Lucas (NZl) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Malseed* Shannon*", Replacement:="Shannon Malseed (Aus) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Newsom* Emily*", Replacement:="Emily Newsom (USA) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Ryan* Kendall*", Replacement:="Kendall Ryan (USA) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Slik* Rozanne*", Replacement:="Rozanne Slik (Ned) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stephens* Lauren*", Replacement:="Lauren Stephens (USA) Tibco-Silicon Valley Bank", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="* Elisa*", Replacement:="Elisa Dalla Valle (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leonardi* Elena*", Replacement:="Elena Leonardi (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marturano* Greta*", Replacement:="Greta Marturano (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Monticolo* Iris*", Replacement:="Iris Monticolo (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Stefani* Martina*", Replacement:="Martina Stefani (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Toffanin* Martina*", Replacement:="Martina Toffanin (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tomasi* Laura*", Replacement:="Laura Tomasi (Ita) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Perinovic* Maja*", Replacement:="Maja Perinovic (Cro) Top Girls Fassa Bortolo", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Aalerud* Katrine*", Replacement:="Katrine Aalerud (Nor) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Andersen* Birgitte*", Replacement:="Birgitte Andersen (Den) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bastianelli* Marta*", Replacement:="Marta Bastianelli (Ita) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bertizzolo* Sofia*", Replacement:="Sofia Bertizzolo (Ita) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guarischi* Barbara*", Replacement:="Barbara Guarischi (Ita) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hansen* Louise*", Replacement:="Louise Hansen (Den) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Koster* Anouska*", Replacement:="Anouska Koster (Ned) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kr?ger* Mieke*", Replacement:="Mieke Kröger (Ger) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Malling Siggaard* Christina*", Replacement:="Christina Malling Siggaard (Den) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Moberg* Emilie*", Replacement:="Emilie Moberg (Nor) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Neylan* Rachel*", Replacement:="Rachel Neylan (Aus) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pawlowska* Katarzyna*", Replacement:="Katarzyna Pawlowska (Pol) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Penton* Sara*", Replacement:="Sara Penton (Swe) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Schmidt* Trine*", Replacement:="Trine Schmidt (Den) Team Virtu Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Balducci* Michela*", Replacement:="Michela Balducci (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Beggin* Sofia*", Replacement:="Sofia Beggin (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brogi* Angelica*", Replacement:="Angelica Brogi (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cipriani* Carmela*", Replacement:="Carmela Cipriani (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Leleivyte* Rasa*", Replacement:="Rasa Leleivyte (Ltu) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Marchesini* Giulia*", Replacement:="Giulia Marchesini (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Matteoli* Emilia*", Replacement:="Emilia Matteoli (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Nesti* Nicole*", Replacement:="Nicole Nesti (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sernissi* Gemma*", Replacement:="Gemma Sernissi (Ita) Aromitalia-Basso Bikes-Vaiano", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Arzuffi* Alice*", Replacement:="Alice Maria Arzuffi (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Balsamo* Elisa*", Replacement:="Elisa Balsamo (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Cavalli* Marta*", Replacement:="Marta Cavalli (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Confalonieri* Maria Giulia*", Replacement:="Maria Giulia Confalonieri (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Consonni* Chiara*", Replacement:="Chiara Consonni (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Guazzini* Vittoria*", Replacement:="Vittoria Guazzini (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Malcotti* Barbara*", Replacement:="Barbara Malcotti (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Muccioli* Dalia*", Replacement:="Dalia Muccioli (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Paladin* Asja*", Replacement:="Asja Paladin (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Persico* Silvia*", Replacement:="Silvia Persico (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pollicini* Silvia*", Replacement:="Silvia Pollicini (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sanguineti* Ilaria*", Replacement:="Ilaria Sanguineti (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vece* Miriam*", Replacement:="Miriam Vece (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vigilia* Alessia*", Replacement:="Alessia Vigilia (Ita) Valcar-Cylance Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Asencio* Laura*", Replacement:="Laura Asencio (Fra) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Badegruber* Anna*", Replacement:="Anna Badegruber (Aut) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Brennauer* Lisa*", Replacement:="Lisa Brennauer (Ger) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Hammes* Kathrin*", Replacement:="Kathrin Hammes (Ger) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Koppenburg* Clara*", Replacement:="Clara Koppenburg (Ger) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Koster* Claudia*", Replacement:="Claudia Koster (Ned) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Magnaldi* Erica*", Replacement:="Erica Magnaldi (Ita) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pilote?Fortin* Gabrielle*", Replacement:="Gabrielle Pilote-Fortin (Can) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Rijkes* Sarah*", Replacement:="Sarah Rijkes (Aut) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Santesteban* Ane*", Replacement:="Ane Santesteban Gonzalez (Spa) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Soet* Aafke*", Replacement:="Aafke Soet (Ned) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Teutenberg* Lea Lin*", Replacement:="Lea Lin Teutenberg (Ger) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Vieceli* Lara*", Replacement:="Lara Vieceli (Ita) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Wild* Kirsten*", Replacement:="Kirsten Wild (Ned) WNT-Rotor Pro Cycling", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Bai* Yue*", Replacement:="Yue Bai (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Chen* Qiaolin*", Replacement:="Qiaolin Chen (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Li* Jiaqi*", Replacement:="Jiaqi Li (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liang* Hongyu*", Replacement:="Hongyu Liang (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liu* Dexiang*", Replacement:="Dexiang Liu (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Liu* Jiali*", Replacement:="Jiali Liu (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu* Mei*", Replacement:="Mei Lu (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Lu* Siying*", Replacement:="Siying Lu (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Meng* Zhaojuan*", Replacement:="Zhaojuan Meng (HKg) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Peixiao* Wu*", Replacement:="Wu Peixiao (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pu* Yixian*", Replacement:="Yixian Pu (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Zhao* Xi Sha*", Replacement:="Xi Sha Zhao (Chn) Gapyeong Cycling Team", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Dzedzikava* Anastasiya*", Replacement:="Anastasiya Dzedzikava (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Kiptsikava* Nastassia*", Replacement:="Nastassia Kiptsikava (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Naskovich* Taisa*", Replacement:="Taisa Naskovich (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Pivovarova* Polina*", Replacement:="Polina Pivovarova (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Savenka* Ina*", Replacement:="Ina Savenka (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Savenka* Karalina*", Replacement:="Karalina Savenka (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Sharakova* Tatsiana*", Replacement:="Tatsiana Sharakova (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
+Selection.Replace What:="Tserakh* Hanna*", Replacement:="Hanna Tserakh (Blr) Minsk Cycling Club", LookAt:=xlWhole, SearchOrder:=xlByRows, MatchCase:=False
