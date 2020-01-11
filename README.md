@@ -1,3 +1,5 @@
+
+
 This repository is a starting point for some simple analytics on how professional bicycle racing has expanded from Europe to the rest of the world (if it has) over history.
 
 Right now I only have access to calendars from the UCI's website (www.uci.org) from 2006 - 2019. I hope to add further calendars, but so far no reply from the UCI for their archive.
@@ -20,6 +22,8 @@ For the purposes of the analyses, I have ignored races where pro riders race wit
 
 I've added a calculation for race days per event: end date minus start date plus 1. In the case of Grand Tours where there are rest days, I've taken any race over 21 days and made it 21 (the length of a Grand Tour in this time period). There are a handful of other races with rest days under 21 days long, but it's so infrequent it won't make any meaningful change to any analysis.
 
-The data is exported as a csv file in /data. The analyses done in UCI
+The data is exported as a csv file in /data. The analyses done in UCI Races groups, plots, tallies up race days by category and continent.
 
+I downloaded Rankings data from the UCI for road, cyclo-cross, MTB in an attempt to see if there has been an overall change in the distribution of riders from various countries in the rankings overall and in the top x positions.
 
+I attempted to look at the rider data from the UCI database, but found gaping holes in their dataset of registered riders and abandoned that project, thus the rankings were the only other alternative.
